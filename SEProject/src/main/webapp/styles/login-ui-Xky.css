@@ -13,6 +13,7 @@ input {
 	border: none;
 }
 body {
+    max-width: ;
   width: 192rem;
 }.login-ui-7dP {
   box-sizing: border-box;
@@ -73,6 +74,7 @@ body {
   border-radius: 2rem;
   flex-shrink: 0;
 }
+
 .login-ui-7dP .auto-group-nrcx-1Vo {
   margin: 0rem 8.5rem 3.826rem 6.5rem;
   width: calc(100% - 15rem);
