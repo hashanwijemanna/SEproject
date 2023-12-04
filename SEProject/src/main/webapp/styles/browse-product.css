@@ -1,0 +1,735 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.browse-product-vcV {
+  width: 100%;
+  height: 128rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/browse-product-bg.png');
+  border-radius: 3rem;
+}
+.browse-product-vcV .harpic-toilet-cleaner-rFF {
+  width: 21.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 76.1rem;
+  top: 62.6rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .price-000-Wqb {
+  width: 11.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 43rem;
+  top: 69.2rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .view-ratings-reviews-prH {
+  width: 25.5rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 43rem;
+  top: 91.4rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ae3737;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .description-vuK {
+  width: 12.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 43rem;
+  top: 97.2rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-mbvj-qmP {
+  width: 19.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 77.4rem;
+  top: 85.3rem;
+  display: flex;
+  align-items: center;
+}
+.browse-product-vcV .auto-group-mbvj-qmP .vector-A2y {
+  margin-right: 1.4666rem;
+  width: 2.6667rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-mbvj-qmP .vector-VL9 {
+  margin-right: 1.4667rem;
+  width: 2.6667rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-mbvj-qmP .vector-2L5 {
+  margin-right: 1.4667rem;
+  width: 2.6667rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-mbvj-qmP .vector-Neq {
+  margin-right: 1.4666rem;
+  width: 2.6667rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-mbvj-qmP .vector-Kpy {
+  width: 2.6667rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-cxpu-GVK {
+  width: 191.5rem;
+  height: 77rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 102.3rem;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .harpic-is-a-brand-of-toilet-cleaner-that-is-popular-in-many-countries-around-the-world-it-is-a-powerful-cleaner-that-can-kill-999-of-germs-and-bacteria-and-it-also-removes-tough-stains-and-leaves-a-fresh-smell-harpic-is-available-in-a-variety-of-formulas-including-original-lemon-and-rose-here-are-some-of-the-benefits-of-using-harpic-toilet-cleaner-kills-999-of-germs-and-bacteria-removes-tough-stains-leaves-a-fresh-smell-safe-for-septic-tanks-available-in-a-variety-of-formulas-if-you-are-looking-for-a-powerful-and-effective-toilet-cleaner-harpic-is-a-great-option-N2Z {
+  width: 102.2rem;
+  height: 27.5rem;
+  position: absolute;
+  left: 42.7rem;
+  top: 0;
+  font-size: 2.2rem;
+  font-weight: 200;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+}
+.browse-product-vcV .auto-group-cxpu-GVK .rectangle-73-SRj {
+  width: 29.2rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 68.4rem;
+  top: 32.4rem;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .rectangle-74-N4V {
+  width: 29.2rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 101.1rem;
+  top: 32.4rem;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .add-to-cart-V97 {
+  width: 11rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 77.1rem;
+  top: 33.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .buy-now-oQh {
+  width: 8.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 110.9rem;
+  top: 33.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .rectangle-131-JsF {
+  width: 191.5rem;
+  height: 54.9rem;
+  position: absolute;
+  left: 0;
+  top: 22.1rem;
+  background-color: #d3567c;
+  border-radius: 5rem;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .quick-links-qsB {
+  width: 13.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 30.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .categories-MqX {
+  width: 12.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 30.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .customer-service-5Wd {
+  width: 21.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 138.5rem;
+  top: 30.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .contact-us-nvq {
+  width: 12.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 138.5rem;
+  top: 35.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .about-us-hnu {
+  width: 10.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 138.5rem;
+  top: 40.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .logoab-removebg-preview-2-2KP {
+  width: 20rem;
+  height: 2.9487rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 25.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .paul-wayne-haggerty-road-new-orleans-louisiana-8NR {
+  width: 66.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 37.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .daily-operating-hours-800am-to-800pm-pm3 {
+  width: 68.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 53.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .rectangle-132-WNy {
+  width: 191.5rem;
+  height: 12.9rem;
+  position: absolute;
+  left: 0;
+  top: 64.1rem;
+  background-color: #53a6bb;
+  border-radius: 0 0 5rem 5rem;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .home-qAM {
+  width: 7rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 35.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .home-living-9gq {
+  width: 17.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 35.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .fashion-4Yu {
+  width: 9.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 40.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .groceries-aGM {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 44.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .electronics-V8R {
+  width: 12.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 49.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .beauty-oQ1 {
+  width: 9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.2rem;
+  top: 53.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .browse-products-vDj {
+  width: 19.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 40.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .my-cart-q5o {
+  width: 9.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 44.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .my-activity-Z1o {
+  width: 13.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 49.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .feedbacks-sYH {
+  width: 12.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 53.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .vector-PWd {
+  width: 2rem;
+  height: 1.992rem;
+  position: absolute;
+  left: 162.1rem;
+  top: 71.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .vector-ioo {
+  width: 2rem;
+  height: 1.9999rem;
+  position: absolute;
+  left: 166.4rem;
+  top: 71.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .vector-fDF {
+  width: 2rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 170.7rem;
+  top: 71.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .vector-nof {
+  width: 1.99rem;
+  height: 2rem;
+  position: absolute;
+  left: 175rem;
+  top: 71.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.browse-product-vcV .auto-group-cxpu-GVK .vector-LKP {
+  width: 2.092rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 179.3rem;
+  top: 71.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.browse-product-vcV .auto-group-niix-Gyj {
+  width: 82.3rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 43rem;
+  top: 74.4rem;
+  display: flex;
+  align-items: center;
+}
+.browse-product-vcV .auto-group-niix-Gyj .auto-group-zb6k-QKF {
+  margin: 0.1rem 6.3rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 12.5rem 1.1rem 7.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-niix-Gyj .auto-group-zb6k-QKF .vector-WdB {
+  margin: 0.075rem 0.833rem 0rem 0rem;
+  width: 2.6667rem;
+  height: 2.375rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-niix-Gyj .auto-group-zb6k-QKF .add-to-wishlist-Ep5 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-niix-Gyj .auto-group-jic3-wyP {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding: 0.9rem 10rem 1rem 10.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-niix-Gyj .auto-group-jic3-wyP .vector-GVs {
+  margin: 0rem 0.9rem 0.011rem 0rem;
+  width: 2.4rem;
+  height: 2.4888rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-niix-Gyj .auto-group-jic3-wyP .share-product-zwf {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-ceyk-vqK {
+  width: 190.4rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0.6rem;
+  display: flex;
+  align-items: flex-start;
+}
+.browse-product-vcV .auto-group-ceyk-vqK .rectangle-6-eFX {
+  margin: 0.2rem 3.867rem 0rem 0rem;
+  width: 11.2rem;
+  height: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-ceyk-vqK .vector-Mfj {
+  margin: 0.4rem 13.133rem 0rem 0rem;
+  width: 4rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-ceyk-vqK .auto-group-dyyu-Gnh {
+  margin: 3rem 26.3rem 2.8rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.167rem 0.475rem 53.5rem;
+  height: calc(100% - 5.8rem);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-ceyk-vqK .auto-group-dyyu-Gnh .vector-ySD {
+  width: 3.3333rem;
+  height: 3.125rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.browse-product-vcV .auto-group-ceyk-vqK .auto-group-sigb-hd7 {
+  margin: 1.2rem 3.4rem 0rem 0rem;
+  width: 4.7rem;
+  height: 3.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-ceyk-vqK .auto-group-kflw-wnM {
+  margin: 1.2rem 3.5rem 0rem 0rem;
+  width: 13.1rem;
+  height: 3.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-ceyk-vqK .auto-group-gcgb-nny {
+  margin: 1.2rem 3.2rem 0rem 0rem;
+  width: 6.5rem;
+  height: 3.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-ceyk-vqK .auto-group-yxaw-SsX {
+  margin: 1.2rem 3.2rem 0rem 0rem;
+  width: 8.8rem;
+  height: 3.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-ceyk-vqK .auto-group-a7tq-um7 {
+  margin: 1.2rem 13.8rem 0rem 0rem;
+  width: 7.7rem;
+  height: 3.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.browse-product-vcV .auto-group-ceyk-vqK .auto-group-a7tq-um7 .rectangle-107-eCu {
+  width: 7.5rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+}
+.browse-product-vcV .auto-group-ceyk-vqK .auto-group-a7tq-um7 .feedback-xUV {
+  width: 7.7rem;
+  height: 2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-vcV .auto-group-ceyk-vqK .ellipse-1-fdo {
+  width: 6rem;
+  height: 6rem;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.browse-product-vcV .component-2-D9X {
+  width: 80.041rem;
+  height: 41.7rem;
+  position: absolute;
+  left: 47rem;
+  top: 15.9rem;
+}
+.browse-product-vcV .component-2-D9X .rectangle-62-4A9 {
+  width: 80rem;
+  height: 41.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.browse-product-vcV .component-2-D9X .vector-z3o {
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 20.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.browse-product-vcV .component-2-D9X .vector-XJd {
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 79.3rem;
+  top: 20.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}

@@ -1,0 +1,179 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 84rem;
+}.component-2-y6V {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 3.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.component-2-y6V .property-1rectangle-62-T1f {
+  box-sizing: border-box;
+  padding: 20.3rem 0rem 20.2rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-62-bg-4bw.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-62-T1f .vector-xj7 {
+  margin-right: 78.559rem;
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-62-T1f .vector-gQD {
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-63-ni9 {
+  box-sizing: border-box;
+  padding: 20.3rem 0rem 20.2rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-63-bg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-63-ni9 .vector-JwP {
+  margin-right: 78.559rem;
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-63-ni9 .vector-Snh {
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-64-ATo {
+  box-sizing: border-box;
+  padding: 20.3rem 0rem 20.2rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-64-bg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-64-ATo .vector-VFB {
+  margin-right: 78.559rem;
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-64-ATo .vector-qK3 {
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-65-9qX {
+  box-sizing: border-box;
+  padding: 20.3rem 0rem 20.2rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-65-bg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-65-9qX .vector-gaZ {
+  margin-right: 78.559rem;
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-65-9qX .vector-qCZ {
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-66-Ysf {
+  box-sizing: border-box;
+  padding: 20.3rem 0rem 20.2rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-66-bg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-66-Ysf .vector-5sb {
+  margin-right: 78.559rem;
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-2-y6V .property-1rectangle-66-Ysf .vector-RwT {
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

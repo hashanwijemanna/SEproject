@@ -1,0 +1,1460 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.browse-product-electronics-TZF {
+  width: 100%;
+  height: 128rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/browse-product-electronics-bg.png');
+  border-radius: 3rem;
+}
+.browse-product-electronics-TZF .auto-group-dxwz-ZcH {
+  width: 190.4rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0.6rem;
+  display: flex;
+  align-items: flex-start;
+}
+.browse-product-electronics-TZF .auto-group-dxwz-ZcH .rectangle-6-4Z3 {
+  margin: 0.2rem 3.867rem 0rem 0rem;
+  width: 11.2rem;
+  height: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-dxwz-ZcH .vector-wsj {
+  margin: 0.4rem 97.433rem 0rem 0rem;
+  width: 4rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-dxwz-ZcH .auto-group-ahnb-foj {
+  margin: 1.2rem 3.4rem 0rem 0rem;
+  width: 4.7rem;
+  height: 3.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-dxwz-ZcH .auto-group-mqjh-HKK {
+  margin: 1.2rem 3.5rem 0rem 0rem;
+  width: 13.1rem;
+  height: 3.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-dxwz-ZcH .auto-group-kpvu-L2h {
+  margin: 1.2rem 3.2rem 0rem 0rem;
+  width: 6.5rem;
+  height: 3.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-dxwz-ZcH .auto-group-vyno-B3K {
+  margin: 1.2rem 3.2rem 0rem 0rem;
+  width: 8.8rem;
+  height: 3.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-dxwz-ZcH .auto-group-7gju-dAD {
+  margin: 1.2rem 13.8rem 0rem 0rem;
+  width: 7.7rem;
+  height: 3.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-dxwz-ZcH .auto-group-7gju-dAD .rectangle-107-9eM {
+  width: 7.5rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+}
+.browse-product-electronics-TZF .auto-group-dxwz-ZcH .auto-group-7gju-dAD .feedback-3zd {
+  width: 7.7rem;
+  height: 2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-dxwz-ZcH .ellipse-1-ZTB {
+  width: 6rem;
+  height: 6rem;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj {
+  width: 185.4rem;
+  height: 60.2rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 15.4rem;
+  display: flex;
+  align-items: center;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-qaiw-osK {
+  margin: 0.8rem 21.6rem 1.7rem 0rem;
+  width: 18.5rem;
+  height: calc(100% - 2.5rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-qaiw-osK .rectangle-36-WWq {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  height: 15.1rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-36-bg-kcu.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-qaiw-osK .home-living-cpm {
+  margin-bottom: 2.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-qaiw-osK .rectangle-133-kAH {
+  width: 100%;
+  height: 15.1rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-133-bg.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-qaiw-osK .fashion-4Rs {
+  margin-bottom: 2.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-qaiw-osK .rectangle-134-ZtR {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  height: 15.1rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-134-bg-Syj.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-qaiw-osK .groceries-4qB {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-s7ak-MJV {
+  margin-bottom: 5.1rem;
+  box-sizing: border-box;
+  padding: 0.6rem 0.767rem 0.675rem 53.9rem;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-s7ak-MJV .vector-sGq {
+  width: 3.3333rem;
+  height: 3.125rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-y3zm-bid {
+  margin-bottom: 2.7rem;
+  height: 15.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-y3zm-bid .auto-group-eywx-9EM {
+  margin-right: 2.9rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-62-bg-RFb.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-y3zm-bid .auto-group-e73q-b6M {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-y3zm-bid .auto-group-tghr-pjo {
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-fatd-gn1 {
+  margin-bottom: 2.7rem;
+  height: 15.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-fatd-gn1 .auto-group-ehcx-Qxu {
+  margin-right: 2.9rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-fatd-gn1 .auto-group-zfzm-GER {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-fatd-gn1 .auto-group-f24k-vpm {
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-nyhz-CGV {
+  margin-left: 0.2rem;
+  height: 15.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-nyhz-CGV .auto-group-wfsy-Ldb {
+  margin-right: 2.9rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-nyhz-CGV .auto-group-kq1m-hsT {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-dmtq-zyj .auto-group-nyhz-CGV .auto-group-6nxb-AW9 {
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR {
+  box-sizing: border-box;
+  padding: 9.5rem 0rem 0rem 2.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-pvej-97B {
+  margin-right: 2.3rem;
+  height: 100%;
+  row-gap: 2.7rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-pvej-97B .auto-group-rp5d-4zq {
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-pvej-97B .auto-group-sytu-ipV {
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-pvej-97B .auto-group-f7g7-nZT {
+  margin-left: 0.2rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-x28b-3EV {
+  margin-right: 2.3rem;
+  height: 100%;
+  row-gap: 2.7rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-x28b-3EV .auto-group-hj2b-ZyX {
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-x28b-3EV .auto-group-yv1m-dTb {
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-x28b-3EV .auto-group-gshh-tPX {
+  margin-left: 0.2rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-bxg3-LmK {
+  margin-right: 2.1rem;
+  width: 18.9rem;
+  height: 100%;
+  row-gap: 2.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-bxg3-LmK .auto-group-qshd-Ucd {
+  margin-right: 0.4rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-bxg3-LmK .auto-group-52vo-XL1 {
+  margin: 0 0.2rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: calc(100% - 0.4rem);
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-bxg3-LmK .auto-group-d18x-NLd {
+  margin-left: 0.4rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-gvfv-owj {
+  width: 18.9rem;
+  height: 100%;
+  row-gap: 2.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-gvfv-owj .auto-group-22jx-YPX {
+  margin-right: 0.4rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-gvfv-owj .auto-group-qbsk-bMo {
+  margin: 0 0.2rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: calc(100% - 0.4rem);
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ccrf-Vbj .auto-group-geqb-DUR .auto-group-gvfv-owj .auto-group-ela7-SNR {
+  margin-left: 0.4rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-z1nj-ejP {
+  width: 185.2rem;
+  height: 17.1rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 76.7rem;
+  display: flex;
+  align-items: center;
+}
+.browse-product-electronics-TZF .auto-group-z1nj-ejP .auto-group-9jt9-NQV {
+  width: 18.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-z1nj-ejP .auto-group-9jt9-NQV .rectangle-33-ufK {
+  width: 100%;
+  height: 15.1rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-33-bg-zWq.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-z1nj-ejP .auto-group-9jt9-NQV .electronics-2V3 {
+  margin-left: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-z1nj-ejP .auto-group-yvj9-x7o {
+  box-sizing: border-box;
+  padding: 1.6rem 0rem 0.4rem 21.6rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-z1nj-ejP .auto-group-yvj9-x7o .auto-group-vgt5-Lu3 {
+  margin-right: 2.9rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-z1nj-ejP .auto-group-yvj9-x7o .auto-group-gqpb-b4H {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-z1nj-ejP .auto-group-yvj9-x7o .auto-group-xahz-eHT {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-z1nj-ejP .auto-group-yvj9-x7o .auto-group-ui4b-hWd {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-z1nj-ejP .auto-group-yvj9-x7o .auto-group-qfvd-9tR {
+  margin-right: 2.7rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-z1nj-ejP .auto-group-yvj9-x7o .auto-group-1pn7-1vd {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-z1nj-ejP .auto-group-yvj9-x7o .auto-group-pnex-H7T {
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 100%;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ruwh-YZB {
+  width: 185.4rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 96.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.browse-product-electronics-TZF .auto-group-ruwh-YZB .rectangle-135-3kq {
+  margin: 0.5rem 21.8rem 0rem 0rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-135-bg-GYu.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ruwh-YZB .auto-group-zsmd-Xg1 {
+  margin-right: 2.9rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ruwh-YZB .auto-group-re6p-aeH {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ruwh-YZB .auto-group-1n7u-ie1 {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ruwh-YZB .auto-group-pwfh-NCm {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ruwh-YZB .auto-group-ktgj-Rgq {
+  margin-right: 2.7rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ruwh-YZB .auto-group-n45r-5mP {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ruwh-YZB .auto-group-bddd-9FT {
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 18.5rem;
+  height: 15.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m {
+  width: 191.5rem;
+  height: 65.4rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 113.9rem;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .rectangle-119-52d {
+  width: 18.5rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 84.6rem;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .rectangle-120-nBw {
+  width: 18.5rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 63.6rem;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .rectangle-121-hJu {
+  width: 18.5rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 42.2rem;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .rectangle-122-Qj7 {
+  width: 18.5rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 105.6rem;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .rectangle-123-KbB {
+  width: 18.5rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 147.8rem;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .rectangle-124-qJd {
+  width: 18.5rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 126.6rem;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .rectangle-125-MGy {
+  width: 18.5rem;
+  height: 15.1rem;
+  position: absolute;
+  left: 168.8rem;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .item-no1-Tqo {
+  width: 5.3rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 85.7rem;
+  top: 1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .item-no1-NC5 {
+  width: 5.3rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 64.7rem;
+  top: 1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .item-no1-sed {
+  width: 5.3rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 43.3rem;
+  top: 1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .item-no1-BfK {
+  width: 5.3rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 106.7rem;
+  top: 1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .item-no1-uLR {
+  width: 5.3rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 148.9rem;
+  top: 1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .item-no1-Dc1 {
+  width: 5.3rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 127.7rem;
+  top: 1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .item-no1-Xsb {
+  width: 5.3rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 169.9rem;
+  top: 1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .rectangle-131-eSR {
+  width: 191.5rem;
+  height: 54.9rem;
+  position: absolute;
+  left: 0;
+  top: 10.5rem;
+  background-color: #d3567c;
+  border-radius: 5rem;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .quick-links-nHj {
+  width: 13.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 19.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .categories-hQh {
+  width: 12.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 18.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .customer-service-oyX {
+  width: 21.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 138.5rem;
+  top: 18.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .contact-us-vYM {
+  width: 12.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 138.5rem;
+  top: 24.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .about-us-Eow {
+  width: 10.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 138.5rem;
+  top: 28.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .logoab-removebg-preview-2-kGV {
+  width: 20rem;
+  height: 2.9487rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 13.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .paul-wayne-haggerty-road-new-orleans-louisiana-rqK {
+  width: 66.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 25.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .daily-operating-hours-800am-to-800pm-9pR {
+  width: 68.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 42.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .rectangle-132-eFP {
+  width: 191.5rem;
+  height: 12.9rem;
+  position: absolute;
+  left: 0;
+  top: 52.5rem;
+  background-color: #53a6bb;
+  border-radius: 0 0 5rem 5rem;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .home-NSH {
+  width: 7rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 24.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .home-living-tfX {
+  width: 17.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 24.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .fashion-PsB {
+  width: 9.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 28.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .groceries-hcy {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 33.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .electronics-1df {
+  width: 12.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 37.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .beauty-WKX {
+  width: 9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.2rem;
+  top: 42.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .browse-products-kjf {
+  width: 19.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 28.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .my-cart-rXo {
+  width: 9.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 33.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .my-activity-AYV {
+  width: 13.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 37.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .feedbacks-sSu {
+  width: 12.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 42.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .vector-PAM {
+  width: 2rem;
+  height: 1.992rem;
+  position: absolute;
+  left: 162.1rem;
+  top: 60rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .vector-iTX {
+  width: 2rem;
+  height: 1.9999rem;
+  position: absolute;
+  left: 166.4rem;
+  top: 60rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .vector-r3w {
+  width: 2rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 170.7rem;
+  top: 60.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .vector-NHB {
+  width: 1.99rem;
+  height: 2rem;
+  position: absolute;
+  left: 175rem;
+  top: 60rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.browse-product-electronics-TZF .auto-group-ibzm-12m .vector-W8V {
+  width: 2.092rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 179.3rem;
+  top: 60.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.browse-product-electronics-TZF .beauty-eEh {
+  width: 5.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 111.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
