@@ -1,0 +1,270 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 213.3rem;
+}.login-ui-2nR {
+  width: 100%;
+  height: 121.7rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/login-ui-bg.png');
+  border-radius: 3rem;
+}
+.login-ui-2nR .auto-group-m8ww-a3F {
+  width: 61rem;
+  height: 4.2515rem;
+  position: absolute;
+  left: 84.9rem;
+  top: 38.7952rem;
+  display: flex;
+  align-items: center;
+}
+.login-ui-2nR .auto-group-m8ww-a3F .auto-group-wqw9-u5X {
+  margin-right: 5rem;
+  width: 16rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #9ff6fc;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.login-ui-2nR .auto-group-m8ww-a3F .rectangle-58-9Vf {
+  width: 40rem;
+  height: 4.2515rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(159, 246, 252, 0.4799999893);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.login-ui-2nR .auto-group-uphm-TWM {
+  width: 61.2rem;
+  height: 4.3793rem;
+  position: absolute;
+  left: 84.6rem;
+  top: 48.379rem;
+  display: flex;
+  align-items: flex-start;
+}
+.login-ui-2nR .auto-group-uphm-TWM .auto-group-evhh-BSM {
+  margin: 0.064rem 5.2rem 0rem 0rem;
+  width: 16rem;
+  height: 4.3156rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #9ff6fc;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.login-ui-2nR .auto-group-uphm-TWM .rectangle-59-cGm {
+  width: 40rem;
+  height: 4.1928rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(159, 246, 252, 0.4799999893);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.login-ui-2nR .auto-group-qmhd-vHT {
+  width: 61.4rem;
+  height: 4.3004rem;
+  position: absolute;
+  left: 84.4rem;
+  top: 66.333rem;
+  display: flex;
+  align-items: flex-end;
+}
+.login-ui-2nR .auto-group-qmhd-vHT .auto-group-r5j1-rB7 {
+  margin-right: 5.4rem;
+  width: 16rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #9ff6fc;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.login-ui-2nR .auto-group-qmhd-vHT .rectangle-60-KaV {
+  width: 40rem;
+  height: 4.1928rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(159, 246, 252, 0.4799999893);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.login-ui-2nR .auto-group-zudr-qHw {
+  width: 61.4rem;
+  height: 4.3004rem;
+  position: absolute;
+  left: 84.4rem;
+  top: 57.3022rem;
+  display: flex;
+  align-items: flex-start;
+}
+.login-ui-2nR .auto-group-zudr-qHw .auto-group-rdb1-ALD {
+  margin-right: 5.4rem;
+  width: 16rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #9ff6fc;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.login-ui-2nR .auto-group-zudr-qHw .rectangle-67-3Q1 {
+  width: 40rem;
+  height: 4.1928rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(159, 246, 252, 0.4799999893);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.login-ui-2nR .auto-group-sr2b-k3X {
+  width: 61.4rem;
+  height: 4.3004rem;
+  position: absolute;
+  left: 84.4rem;
+  top: 75.2562rem;
+  display: flex;
+  align-items: flex-end;
+}
+.login-ui-2nR .auto-group-sr2b-k3X .auto-group-rz8p-gC5 {
+  margin-right: 5.4rem;
+  width: 16rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #9ff6fc;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.login-ui-2nR .auto-group-sr2b-k3X .rectangle-61-LnR {
+  width: 40rem;
+  height: 4.1928rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(159, 246, 252, 0.4799999893);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.login-ui-2nR .auto-group-hjbm-4Cd {
+  width: 15.5rem;
+  height: 4.3004rem;
+  position: absolute;
+  left: 105.9rem;
+  top: 83.4269rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #9ff6fc;
+  border-radius: 2rem;
+}
+.login-ui-2nR .sign-up-WqK {
+  width: 16.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 99.8rem;
+  top: 25.9rem;
+  font-size: 4rem;
+  font-weight: 900;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-ui-2nR .already-have-an-account-log-in-opR {
+  width: 25.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 100.7rem;
+  top: 94.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+}
+.login-ui-2nR .already-have-an-account-log-in-opR .already-have-an-account-log-in-opR-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+}
+.login-ui-2nR .already-have-an-account-log-in-opR .already-have-an-account-log-in-opR-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+}
+.login-ui-2nR .already-have-an-account-log-in-opR .already-have-an-account-log-in-opR-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 1.25;
+  color: #0065ff;
+  font-family: Lexend, 'Source Sans Pro';
+}

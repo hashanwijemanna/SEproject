@@ -1,0 +1,45 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 3.2rem;
+}.hamburger-button-jP3 {
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  row-gap: 0.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #6cac98;
+}
+.hamburger-button-jP3 .rectangle-87-5C1 {
+  width: 100%;
+  height: 0.6rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.hamburger-button-jP3 .rectangle-88-qBB {
+  width: 100%;
+  height: 0.6rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.hamburger-button-jP3 .rectangle-89-PTb {
+  width: 100%;
+  height: 0.6rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}

@@ -1,0 +1,178 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 43.7rem;
+}.frame-bug-BNu {
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.frame-bug-BNu .auto-group-wzk3-uph {
+  width: 100%;
+  height: 6.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-bug-BNu .auto-group-wzk3-uph .hamburger-button-TLR {
+  margin-right: 30rem;
+  box-sizing: border-box;
+  padding: 1.985rem 2.3rem 0rem 2.2rem;
+  width: 7.7rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.frame-bug-BNu .auto-group-wzk3-uph .hamburger-button-TLR .auto-group-3wcb-9U9 {
+  margin: 0rem 0.003rem 7.732rem 0rem;
+  width: 2.7849rem;
+  height: 2.6833rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-bug-BNu .auto-group-wzk3-uph .hamburger-button-TLR .rectangle-90-rtM {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  height: 0.6rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+  flex-shrink: 0;
+}
+.frame-bug-BNu .auto-group-wzk3-uph .hamburger-button-TLR .rectangle-91-bL9 {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  height: 0.6rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+  flex-shrink: 0;
+}
+.frame-bug-BNu .auto-group-wzk3-uph .hamburger-button-TLR .rectangle-92-w97 {
+  width: 100%;
+  height: 0.6rem;
+  background-color: rgba(0, 0, 0, 0.3799999952);
+  flex-shrink: 0;
+}
+.frame-bug-BNu .auto-group-wzk3-uph .ellipse-1-U93 {
+  margin-bottom: 0.1rem;
+  width: 6rem;
+  height: 6rem;
+  cursor: pointer;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.frame-bug-BNu .auto-group-tpgp-zNH {
+  box-sizing: border-box;
+  padding: 21.1rem 2.2rem 73.2rem 2.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-bug-BNu .auto-group-tpgp-zNH .frame-4-hnV {
+  width: 33.5rem;
+  height: 5.3rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-bug-BNu .auto-group-tpgp-zNH .frame-5-NNq {
+  width: 33.5rem;
+  height: 5.3rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-bug-BNu .auto-group-tpgp-zNH .frame-6-er9 {
+  width: 33.5rem;
+  height: 5.3rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-bug-BNu .auto-group-tpgp-zNH .frame-7-Xuw {
+  width: 33.5rem;
+  height: 5.3rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-bug-BNu .auto-group-tpgp-zNH .frame-8-CmB {
+  width: 33.5rem;
+  height: 5.3rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

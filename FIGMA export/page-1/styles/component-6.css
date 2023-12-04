@@ -1,0 +1,152 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 44.4rem;
+}.component-6-3FT {
+  box-sizing: border-box;
+  padding: 0rem 2rem 2rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.component-6-3FT .property-1frame-20-Zjb {
+  margin: 0rem 2.9rem 43.7rem 0rem;
+  box-sizing: border-box;
+  padding: 3.6rem 3.7rem 3.5rem 3.8rem;
+  width: 37.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-6-3FT .property-1frame-20-Zjb .ellipse-2-ryb {
+  width: 100%;
+  height: 30rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-whF.png');
+  border-radius: 15rem;
+}
+.component-6-3FT .property-1frame-21-odw {
+  margin: 0rem 2.9rem 46.5rem 0rem;
+  box-sizing: border-box;
+  padding: 3.6rem 3.7rem 3.5rem 3.8rem;
+  width: 37.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-6-3FT .property-1frame-21-odw .ellipse-2-7ed {
+  width: 100%;
+  height: 30rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-98h.png');
+  border-radius: 15rem;
+}
+.component-6-3FT .property-1frame-22-fAM {
+  margin: 0rem 0rem 59.8rem 2.9rem;
+  width: 37.5rem;
+  height: 37.1rem;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.component-6-3FT .property-1frame-22-fAM .ellipse-2-mz5 {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 3.6rem;
+  border-radius: 15rem;
+}
+.component-6-3FT .property-1frame-22-fAM .ellipse-3-uqP {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 3.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-3-bg-U3P.png');
+  border-radius: 15rem;
+}
+.component-6-3FT .property-1frame-23-RHw {
+  margin: 0rem 0rem 53.7rem 2.9rem;
+  box-sizing: border-box;
+  padding: 3.6rem 3.7rem 3.5rem 3.8rem;
+  width: 37.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-6-3FT .property-1frame-23-RHw .ellipse-2-Xbs {
+  width: 100%;
+  height: 30rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-xv1.png');
+  border-radius: 15rem;
+}
+.component-6-3FT .property-1frame-24-UX7 {
+  margin: 0rem 0rem 53.7rem 2.9rem;
+  box-sizing: border-box;
+  padding: 3.6rem 3.7rem 3.5rem 3.8rem;
+  width: 37.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-6-3FT .property-1frame-24-UX7 .ellipse-2-Pe5 {
+  width: 100%;
+  height: 30rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-tFo.png');
+  border-radius: 15rem;
+}
+.component-6-3FT .property-1frame-25-jxq {
+  margin-left: 2.9rem;
+  box-sizing: border-box;
+  padding: 3.6rem 3.7rem 3.5rem 3.8rem;
+  width: 37.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-6-3FT .property-1frame-25-jxq .ellipse-2-4ER {
+  width: 100%;
+  height: 30rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-Y93.png');
+  border-radius: 15rem;
+}

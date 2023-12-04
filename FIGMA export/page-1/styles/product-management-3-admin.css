@@ -1,0 +1,785 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.product-management-3-admin-xvH {
+  width: 100%;
+  height: 128rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/product-management-3-admin-bg.png');
+  border-radius: 3rem;
+}
+.product-management-3-admin-xvH .auto-group-zseb-V9X {
+  width: 190.4rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0.6rem;
+  display: flex;
+  align-items: flex-start;
+}
+.product-management-3-admin-xvH .auto-group-zseb-V9X .rectangle-6-CJq {
+  margin: 0.2rem 21rem 0rem 0rem;
+  width: 11.2rem;
+  height: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zseb-V9X .rectangle-32-VYq {
+  margin: 3rem 7.1rem 0rem 0rem;
+  width: 58rem;
+  height: 4.4rem;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zseb-V9X .auto-group-5pif-c7f {
+  margin: 1.3rem 2.3rem 0rem 0rem;
+  width: 5.9rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zseb-V9X .auto-group-3nus-rnh {
+  margin: 1.3rem 2.3rem 0rem 0rem;
+  width: 18.2rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zseb-V9X .auto-group-sx6s-KwB {
+  margin: 1.3rem 2.3rem 0rem 0rem;
+  width: 18.3rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zseb-V9X .auto-group-hgaf-13K {
+  margin: 1.3rem 2.3rem 0rem 0rem;
+  width: 12.4rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zseb-V9X .auto-group-ydqo-Uhb {
+  margin: 0rem 4.3rem 4.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.7rem 0.05rem 0.8rem 0.05rem;
+  width: 18.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zseb-V9X .ellipse-1-KiD {
+  width: 6rem;
+  height: 6rem;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 {
+  width: 175rem;
+  height: 43.9rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 13.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .hamburger-button-au3 {
+  margin: 0.4rem 40rem 0rem 0rem;
+  width: 3.2rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  row-gap: 0.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #61a993;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .hamburger-button-au3 .rectangle-87-hCy {
+  width: 100%;
+  height: 0.6rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .hamburger-button-au3 .rectangle-88-qa5 {
+  width: 100%;
+  height: 0.6rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .hamburger-button-au3 .rectangle-89-nVK {
+  width: 100%;
+  height: 0.6rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .component-2-8p5 {
+  margin: 2.2rem 37.759rem 0rem 0rem;
+  width: 80.041rem;
+  height: 41.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .component-2-8p5 .rectangle-62-3RF {
+  width: 80rem;
+  height: 41.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .component-2-8p5 .vector-BGZ {
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 20.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .component-2-8p5 .vector-Wpd {
+  width: 0.741rem;
+  height: 1.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 79.3rem;
+  top: 20.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .auto-group-r9gf-r7o {
+  margin-right: 2.4997rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .auto-group-r9gf-r7o .vector-bLH {
+  margin-bottom: 2.35rem;
+  width: 2.4003rem;
+  height: 2.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .auto-group-r9gf-r7o .vector-8b7 {
+  margin-right: 0.0003rem;
+  width: 2.4rem;
+  height: 2.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .auto-group-bgnp-4jf {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .auto-group-bgnp-4jf .edit-details-pyj {
+  margin-bottom: 2.9rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zvt1-ry3 .auto-group-bgnp-4jf .delete-item-xa9 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ff4c3c;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .harpic-toilet-cleaner-hGq {
+  width: 21.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 76.1rem;
+  top: 62.6rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .price-000-xyT {
+  width: 11.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 43rem;
+  top: 69.2rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .view-ratings-reviews-Ugu {
+  width: 25.5rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 43rem;
+  top: 91.4rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ae3737;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .description-aV3 {
+  width: 12.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 43rem;
+  top: 97.2rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-uhhd-tEq {
+  width: 19.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 77.4rem;
+  top: 85.3rem;
+  display: flex;
+  align-items: center;
+}
+.product-management-3-admin-xvH .auto-group-uhhd-tEq .vector-1aM {
+  margin-right: 1.4666rem;
+  width: 2.6667rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-uhhd-tEq .vector-Z65 {
+  margin-right: 1.4666rem;
+  width: 2.6667rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-uhhd-tEq .vector-JZT {
+  margin-right: 1.4667rem;
+  width: 2.6667rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-uhhd-tEq .vector-SvZ {
+  margin-right: 1.4666rem;
+  width: 2.6667rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-uhhd-tEq .vector-nzR {
+  width: 2.6667rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu {
+  width: 191.5rem;
+  height: 77rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 102.3rem;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .harpic-is-a-brand-of-toilet-cleaner-that-is-popular-in-many-countries-around-the-world-it-is-a-powerful-cleaner-that-can-kill-999-of-germs-and-bacteria-and-it-also-removes-tough-stains-and-leaves-a-fresh-smell-harpic-is-available-in-a-variety-of-formulas-including-original-lemon-and-rose-here-are-some-of-the-benefits-of-using-harpic-toilet-cleaner-kills-999-of-germs-and-bacteria-removes-tough-stains-leaves-a-fresh-smell-safe-for-septic-tanks-available-in-a-variety-of-formulas-if-you-are-looking-for-a-powerful-and-effective-toilet-cleaner-harpic-is-a-great-option-ErR {
+  width: 102.2rem;
+  height: 27.5rem;
+  position: absolute;
+  left: 42.7rem;
+  top: 0;
+  font-size: 2.2rem;
+  font-weight: 200;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .rectangle-73-jRo {
+  width: 29.2rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 68.4rem;
+  top: 32.4rem;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .rectangle-74-Tch {
+  width: 29.2rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 101.1rem;
+  top: 32.4rem;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .add-to-cart-PmF {
+  width: 11rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 77.1rem;
+  top: 33.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .buy-now-Way {
+  width: 8.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 110.9rem;
+  top: 33.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .rectangle-131-ce1 {
+  width: 191.5rem;
+  height: 54.9rem;
+  position: absolute;
+  left: 0;
+  top: 22.1rem;
+  background-color: #d3567c;
+  border-radius: 5rem;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .quick-links-9P3 {
+  width: 13.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 30.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .categories-Fgy {
+  width: 12.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 30.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .customer-service-NFo {
+  width: 21.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 138.5rem;
+  top: 30.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .contact-us-Gry {
+  width: 12.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 138.5rem;
+  top: 35.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .about-us-n4d {
+  width: 10.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 138.5rem;
+  top: 40.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .logoab-removebg-preview-2-ttM {
+  width: 20rem;
+  height: 2.9487rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 25.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .paul-wayne-haggerty-road-new-orleans-louisiana-1i5 {
+  width: 66.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 37.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .daily-operating-hours-800am-to-800pm-uoT {
+  width: 68.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 53.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .rectangle-132-cC5 {
+  width: 191.5rem;
+  height: 12.9rem;
+  position: absolute;
+  left: 0;
+  top: 64.1rem;
+  background-color: #53a6bb;
+  border-radius: 0 0 5rem 5rem;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .home-8w7 {
+  width: 7rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 35.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .home-living-EDT {
+  width: 17.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 35.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .fashion-LXP {
+  width: 9.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 40.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .groceries-Esf {
+  width: 11.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 44.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .electronics-Z9F {
+  width: 12.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 49.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .beauty-s9w {
+  width: 9rem;
+  height: 3rem;
+  position: absolute;
+  left: 105.2rem;
+  top: 53.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .browse-products-b5w {
+  width: 19.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 40.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .my-cart-6Hb {
+  width: 9.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 44.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .my-activity-1QZ {
+  width: 13.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 49.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .feedbacks-Kg9 {
+  width: 12.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 71rem;
+  top: 53.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .vector-36M {
+  width: 2rem;
+  height: 1.992rem;
+  position: absolute;
+  left: 162.1rem;
+  top: 71.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .vector-NuK {
+  width: 2rem;
+  height: 1.9999rem;
+  position: absolute;
+  left: 166.4rem;
+  top: 71.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .vector-Wkd {
+  width: 2rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 170.7rem;
+  top: 71.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .vector-rZb {
+  width: 1.99rem;
+  height: 2rem;
+  position: absolute;
+  left: 175rem;
+  top: 71.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-management-3-admin-xvH .auto-group-94m1-YCu .vector-ny3 {
+  width: 2.092rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 179.3rem;
+  top: 71.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-management-3-admin-xvH .auto-group-zawp-81K {
+  width: 82.3rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 43rem;
+  top: 74.4rem;
+  display: flex;
+  align-items: center;
+}
+.product-management-3-admin-xvH .auto-group-zawp-81K .auto-group-d4ps-ekM {
+  margin: 0.1rem 6.3rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 12.5rem 1.1rem 7.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zawp-81K .auto-group-d4ps-ekM .vector-kYV {
+  margin: 0.075rem 0.833rem 0rem 0rem;
+  width: 2.6667rem;
+  height: 2.375rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zawp-81K .auto-group-d4ps-ekM .add-to-wishlist-Gmj {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zawp-81K .auto-group-w1vd-zSq {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding: 0.9rem 10rem 1rem 10.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zawp-81K .auto-group-w1vd-zSq .vector-uph {
+  margin: 0rem 0.9rem 0.011rem 0rem;
+  width: 2.4rem;
+  height: 2.4887rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-management-3-admin-xvH .auto-group-zawp-81K .auto-group-w1vd-zSq .share-product-SZj {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lexend, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

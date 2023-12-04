@@ -1,0 +1,853 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.order-managment-admin-toF {
+  width: 100%;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-image: url('REPLACE_IMAGE:5f6b4243145aab55581c729f502960b086ce73bb');
+  height: 128rem;
+  position: relative;
+  background-color: #ffffff;
+  background-position: center;
+  border-radius: 3rem;
+
+  .auto-group-bed9-1ss {
+    height: 4.4rem;
+    position: absolute;
+    left: 28.8rem;
+    top: 22.8rem;
+    border-radius: 2rem;
+    box-sizing: border-box;
+    padding: 0.6rem 1.167rem 0.675rem 53.5rem;
+    width: 58rem;
+    background-color: #d9d9d9;
+
+    .vector-7R7 {
+      width: 3.3333rem;
+      height: 3.125rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+  }
+  .auto-group-e2bd-2ny {
+    left: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    width: 190.8rem;
+    height: 10rem;
+    position: absolute;
+
+    .rectangle-6-ZY1 {
+      flex-shrink: 0;
+      width: 11.2rem;
+      height: 10rem;
+      object-fit: cover;
+      vertical-align: top;
+      border-radius: 0.4rem;
+    }
+    .auto-group-ghab-VgZ {
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 0.6rem 0rem 0.6rem 86.5rem;
+      height: 100%;
+      display: flex;
+      align-items: center;
+
+      .auto-group-xamz-ox9 {
+        color: #000000;
+        font-size: 1.6rem;
+        line-height: 1.25;
+        font-weight: 400;
+        white-space: nowrap;
+        border-radius: 1rem;
+        display: flex;
+        align-items: center;
+        height: 3.5rem;
+        justify-content: center;
+        font-family: Lexend, 'Source Sans Pro';
+        flex-shrink: 0;
+        margin: 0rem 2.3rem 2.7rem 0rem;
+        width: 5.9rem;
+      }
+      .auto-group-v88b-Gaq {
+        width: 18.2rem;
+        height: 3.5rem;
+        border-radius: 1rem;
+        justify-content: center;
+        line-height: 1.25;
+        margin: 0rem 2.3rem 2.7rem 0rem;
+        align-items: center;
+        font-size: 1.6rem;
+        font-weight: 400;
+        flex-shrink: 0;
+        display: flex;
+        color: #000000;
+        font-family: Lexend, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .auto-group-sfto-LKo {
+        line-height: 1.25;
+        margin: 0rem 2.3rem 2.7rem 0rem;
+        height: 3.5rem;
+        border-radius: 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 400;
+        color: #000000;
+        white-space: nowrap;
+        width: 18.3rem;
+        font-size: 1.6rem;
+        font-family: Lexend, 'Source Sans Pro';
+        flex-shrink: 0;
+      }
+      .auto-group-x1xf-oDP {
+        width: 12.4rem;
+        color: #000000;
+        justify-content: center;
+        line-height: 1.25;
+        flex-shrink: 0;
+        border-radius: 1rem;
+        margin: 0rem 2.3rem 2.7rem 0rem;
+        display: flex;
+        align-items: center;
+        font-size: 1.6rem;
+        font-weight: 400;
+        font-family: Lexend, 'Source Sans Pro';
+        height: 3.5rem;
+        white-space: nowrap;
+      }
+      .auto-group-syph-g2H {
+        flex-shrink: 0;
+        padding: 0.7rem 0.05rem 0.8rem 0.05rem;
+        font-family: Lexend, 'Source Sans Pro';
+        border-radius: 1rem;
+        font-weight: 400;
+        color: #000000;
+        align-items: center;
+        font-size: 1.6rem;
+        line-height: 1.25;
+        white-space: nowrap;
+        margin: 0rem 4.3rem 2.7rem 0rem;
+        box-sizing: border-box;
+        display: flex;
+        width: 18.8rem;
+        justify-content: center;
+      }
+      .ellipse-1-K5F {
+        height: 6rem;
+        background-color: #d9d9d9;
+        border-radius: 3rem;
+        flex-shrink: 0;
+        margin-bottom: 2.8rem;
+        width: 6rem;
+      }
+    }
+  }
+  .hamburger-button-3G9 {
+    display: flex;
+    position: absolute;
+    left: 3.8rem;
+    top: 14.1rem;
+    overflow: hidden;
+    row-gap: 0.3rem;
+    align-items: center;
+    flex-direction: column;
+    background-color: #61a993;
+    width: 3.2rem;
+    height: 2.4rem;
+    cursor: pointer;
+
+    .rectangle-87-LW9 {
+      width: 100%;
+      height: 0.6rem;
+      background-color: #000000;
+      flex-shrink: 0;
+    }
+    .rectangle-88-5id {
+      flex-shrink: 0;
+      width: 100%;
+      height: 0.6rem;
+      background-color: #000000;
+    }
+    .rectangle-89-dk9 {
+      width: 100%;
+      height: 0.6rem;
+      background-color: #000000;
+      flex-shrink: 0;
+    }
+  }
+  .auto-group-qgmr-BFs {
+    left: 0.3rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #d3567c;
+    height: 54.9rem;
+    position: absolute;
+    align-items: center;
+    border-radius: 5rem;
+    width: 191.5rem;
+    top: 124.4rem;
+
+    .auto-group-oge7-W3F {
+      box-sizing: border-box;
+      padding: 3.3rem 4.1rem 7.3rem 4.1rem;
+      width: 100%;
+      height: 42rem;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .logoab-removebg-preview-2-cMB {
+        width: 20rem;
+        height: 2.9487rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0rem 163.3rem 1.851rem 0rem;
+      }
+      .auto-group-rbg7-WxM {
+        display: flex;
+        column-gap: 20.7rem;
+        align-items: flex-start;
+        flex-shrink: 0;
+        margin: 0rem 27.6rem 1.9rem 66.9rem;
+        width: calc(100% - 94.5rem);
+
+        .quick-links-qUq {
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-top: 0.6rem;
+          font-size: 2.4rem;
+          font-weight: 400;
+        }
+        .categories-NUm {
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.25;
+          color: #000000;
+        }
+        .customer-service-7hF {
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 2.4rem;
+          font-weight: 400;
+        }
+      }
+      .auto-group-8gyt-TWD {
+        margin-right: 36.1rem;
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+
+        .paul-wayne-haggerty-road-new-orleans-louisiana-c8D {
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 1.5rem 0.3rem 0rem 0rem;
+          font-size: 2.4rem;
+          font-weight: 400;
+        }
+        .home-hfT {
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 27.1rem;
+        }
+        .home-living-2hj {
+          flex-shrink: 0;
+          margin-right: 16.2rem;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .contact-us-Zhf {
+          font-weight: 400;
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 2.4rem;
+        }
+      }
+      .auto-group-omvd-WN1 {
+        margin: 0rem 38.2rem 1.5rem 66.9rem;
+        width: calc(100% - 105.1rem);
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .browse-products-EJ1 {
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 14.6rem;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.25;
+        }
+        .fashion-Zr5 {
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 24.3rem;
+          font-size: 2.4rem;
+          font-weight: 400;
+        }
+        .about-us-hhP {
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+      .auto-group-5gs5-2zZ {
+        margin: 0rem 71.1rem 1.5rem 66.9rem;
+        width: calc(100% - 138rem);
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .my-cart-kvZ {
+          margin-right: 24.8rem;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .groceries-JBP {
+          font-weight: 400;
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 2.4rem;
+        }
+      }
+      .auto-group-y2af-RG1 {
+        margin: 0rem 69.7rem 1.5rem 66.9rem;
+        width: calc(100% - 136.6rem);
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .my-activity-Ltm {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 21rem;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+        }
+        .electronics-Uk5 {
+          font-weight: 400;
+          line-height: 1.25;
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 2.4rem;
+        }
+      }
+      .auto-group-dx3u-R9X {
+        align-items: flex-start;
+        flex-shrink: 0;
+        margin: 0rem 73.2rem 0rem 0.3rem;
+        width: calc(100% - 73.5rem);
+        height: 3.1rem;
+        display: flex;
+
+        .auto-group-uh6b-jAD {
+          position: relative;
+          flex-shrink: 0;
+          margin-right: 21.6rem;
+          width: 79.2rem;
+          height: 100%;
+
+          .daily-operating-hours-800am-to-800pm-snD {
+            font-weight: 400;
+            line-height: 1.25;
+            font-family: Lexend, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 68.6rem;
+            height: 3rem;
+            position: absolute;
+            top: 0.1rem;
+            left: 0;
+            font-size: 2.4rem;
+            color: #000000;
+          }
+          .feedbacks-kr1 {
+            top: 0;
+            line-height: 1.25;
+            color: #000000;
+            white-space: nowrap;
+            height: 3rem;
+            position: absolute;
+            left: 66.6rem;
+            font-family: Lexend, 'Source Sans Pro';
+            width: 12.6rem;
+            font-size: 2.4rem;
+            font-weight: 400;
+          }
+        }
+        .beauty-fTB {
+          color: #000000;
+          font-family: Lexend, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.25;
+        }
+      }
+    }
+    .auto-group-advd-11F {
+      box-sizing: border-box;
+      padding: 7.5rem 10.108rem 3.4rem 162.1rem;
+      width: 100%;
+      flex-shrink: 0;
+      height: 12.9rem;
+      display: flex;
+      align-items: center;
+      background-color: #53a6bb;
+      border-radius: 0 0 5rem 5rem;
+
+      .vector-iAZ {
+        flex-shrink: 0;
+        margin: 0rem 2.3rem 0.008rem 0rem;
+        width: 2rem;
+        height: 1.992rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .vector-3Cq {
+        height: 1.9999rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0rem 2.3rem 0rem 0rem;
+        width: 2rem;
+      }
+      .vector-B49 {
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 2.3rem;
+        width: 2rem;
+        height: 1.4rem;
+        object-fit: contain;
+      }
+      .vector-X81 {
+        margin-right: 2.31rem;
+        width: 1.99rem;
+        height: 2rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .vector-UJ9 {
+        margin-top: 0.3rem;
+        width: 2.092rem;
+        height: 1.7rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+  }
+  .auto-group-5tov-kmT {
+    align-items: center;
+    width: 144.3rem;
+    height: 10rem;
+    position: absolute;
+    left: 22.4rem;
+    top: 39.8rem;
+    display: flex;
+
+    .vector-HFb {
+      margin: 0.05rem 5.8rem 0rem 0rem;
+      width: 2.4rem;
+      height: 2.25rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .auto-group-p9ux-Qr1 {
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      margin-right: 28.1rem;
+      padding: 8.2rem 3.5rem 0.3rem 3.2rem;
+      font-size: 1.2rem;
+      font-weight: 400;
+      line-height: 1.25;
+      white-space: nowrap;
+      background-color: #d9d9d9;
+      border-radius: 2rem;
+      box-sizing: border-box;
+      height: 100%;
+      flex-shrink: 0;
+    }
+    .the-simple-description-of-the-purchased-list-5BT {
+      font-size: 2rem;
+      font-weight: 400;
+      line-height: 1.25;
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0rem 18.8rem 0.1rem 0rem;
+    }
+    .quantity--yGq {
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0rem 15rem 0.1rem 0rem;
+      font-size: 2rem;
+      font-weight: 400;
+      line-height: 1.25;
+    }
+    .price-000-Vky {
+      font-size: 2rem;
+      font-weight: 400;
+      line-height: 1.25;
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-bottom: 0.1rem;
+    }
+  }
+  .auto-group-xfhm-jvD {
+    align-items: center;
+    width: 144.3rem;
+    height: 10rem;
+    position: absolute;
+    left: 22.4rem;
+    top: 51.8rem;
+    display: flex;
+
+    .vector-FtZ {
+      margin: 0.05rem 5.8rem 0rem 0rem;
+      width: 2.4rem;
+      height: 2.25rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .auto-group-tvdh-avq {
+      white-space: nowrap;
+      background-color: #d9d9d9;
+      flex-shrink: 0;
+      margin-right: 28.1rem;
+      box-sizing: border-box;
+      padding: 8.2rem 3.5rem 0.3rem 3.2rem;
+      font-size: 1.2rem;
+      line-height: 1.25;
+      height: 100%;
+      font-weight: 400;
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      border-radius: 2rem;
+    }
+    .the-simple-description-of-the-purchased-list-4r1 {
+      margin: 0rem 18.8rem 0.1rem 0rem;
+      font-size: 2rem;
+      font-weight: 400;
+      line-height: 1.25;
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .quantity--B9w {
+      line-height: 1.25;
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0rem 15rem 0.1rem 0rem;
+      font-size: 2rem;
+      font-weight: 400;
+    }
+    .price-000-u5w {
+      flex-shrink: 0;
+      margin-bottom: 0.1rem;
+      font-size: 2rem;
+      font-weight: 400;
+      line-height: 1.25;
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+  }
+  .auto-group-pt7q-qVP {
+    height: 10rem;
+    position: absolute;
+    left: 22.4rem;
+    top: 63.8rem;
+    display: flex;
+    align-items: center;
+    width: 144.3rem;
+
+    .vector-ksF {
+      flex-shrink: 0;
+      margin: 0.05rem 5.8rem 0rem 0rem;
+      width: 2.4rem;
+      height: 2.25rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+    .auto-group-xijf-fjK {
+      border-radius: 2rem;
+      margin-right: 28.1rem;
+      box-sizing: border-box;
+      height: 100%;
+      font-size: 1.2rem;
+      font-weight: 400;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      padding: 8.2rem 3.5rem 0.3rem 3.2rem;
+      line-height: 1.25;
+      color: #000000;
+      background-color: #d9d9d9;
+    }
+    .the-simple-description-of-the-purchased-list-m1f {
+      font-weight: 400;
+      line-height: 1.25;
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0rem 18.8rem 0.1rem 0rem;
+      font-size: 2rem;
+    }
+    .quantity--t6H {
+      flex-shrink: 0;
+      margin: 0rem 15rem 0.1rem 0rem;
+      font-size: 2rem;
+      font-weight: 400;
+      line-height: 1.25;
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .price-000-QqK {
+      line-height: 1.25;
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-bottom: 0.1rem;
+      font-size: 2rem;
+      font-weight: 400;
+    }
+  }
+  .auto-group-n3lw-kPP {
+    left: 22.4rem;
+    top: 75.8rem;
+    display: flex;
+    align-items: center;
+    width: 144.3rem;
+    height: 10rem;
+    position: absolute;
+
+    .vector-gH3 {
+      height: 2.25rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0.05rem 5.8rem 0rem 0rem;
+      width: 2.4rem;
+    }
+    .auto-group-jihy-cAh {
+      font-size: 1.2rem;
+      font-weight: 400;
+      line-height: 1.25;
+      color: #000000;
+      white-space: nowrap;
+      background-color: #d9d9d9;
+      border-radius: 2rem;
+      margin-right: 28.1rem;
+      box-sizing: border-box;
+      padding: 8.2rem 3.5rem 0.3rem 3.2rem;
+      height: 100%;
+      font-family: Lexend, 'Source Sans Pro';
+      flex-shrink: 0;
+    }
+    .the-simple-description-of-the-purchased-list-65s {
+      font-weight: 400;
+      line-height: 1.25;
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0rem 18.8rem 0.1rem 0rem;
+      font-size: 2rem;
+    }
+    .quantity--C8u {
+      line-height: 1.25;
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0rem 15rem 0.1rem 0rem;
+      font-size: 2rem;
+      font-weight: 400;
+    }
+    .price-000-WfP {
+      flex-shrink: 0;
+      margin-bottom: 0.1rem;
+      font-size: 2rem;
+      font-weight: 400;
+      line-height: 1.25;
+      color: #000000;
+      font-family: Lexend, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+  }
+  .xx-xx-xx-Fcy {
+    line-height: 1.25;
+    white-space: nowrap;
+    width: 9.7rem;
+    height: 2rem;
+    position: absolute;
+    top: 33.8rem;
+    font-family: Lexend, 'Source Sans Pro';
+    left: 22.4rem;
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: #000000;
+  }
+  .total-price-000-mLR {
+    font-size: 2rem;
+    font-family: Lexend, 'Source Sans Pro';
+    white-space: nowrap;
+    height: 2.5rem;
+    left: 153.2rem;
+    top: 88rem;
+    font-weight: 400;
+    line-height: 1.25;
+    color: #000000;
+    width: 16.1rem;
+    position: absolute;
+  }
+  .auto-group-nelj-Gny {
+    width: 93.6rem;
+    height: 4.5rem;
+    position: absolute;
+    left: 49.2rem;
+    top: 99rem;
+    display: flex;
+    align-items: center;
+
+    .auto-group-vuxz-1Em {
+      padding: 0.9rem 10.25rem 1rem 7rem;
+      display: flex;
+      align-items: center;
+      background-color: #d9d9d9;
+      border-radius: 2rem;
+      flex-shrink: 0;
+      margin: 0rem 35.2rem 0.1rem 0rem;
+      box-sizing: border-box;
+
+      .vector-WxD {
+        flex-shrink: 0;
+        margin: 0.241rem 1.4rem 0rem 0rem;
+        width: 1.75rem;
+        height: 1.341rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .approve-F97 {
+        display: flex;
+        font-size: 2rem;
+        color: #000000;
+        white-space: nowrap;
+        flex-shrink: 0;
+        align-items: center;
+        justify-content: center;
+        font-weight: 400;
+        line-height: 1.25;
+        font-family: Lexend, 'Source Sans Pro';
+      }
+    }
+    .auto-group-9eef-NDj {
+      padding: 0.9rem 12.2rem 1rem 6.4rem;
+      display: flex;
+      align-items: center;
+      background-color: #d9d9d9;
+      border-radius: 2rem;
+      flex-shrink: 0;
+      margin-top: 0.1rem;
+      box-sizing: border-box;
+
+      .close-box-outline-J7P {
+        flex-shrink: 0;
+        margin: 0.1rem 1.6rem 0rem 0rem;
+        width: 1.8rem;
+        height: 1.8rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .decline-23P {
+        font-weight: 400;
+        line-height: 1.25;
+        color: #000000;
+        font-family: Lexend, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 2rem;
+      }
+    }
+  }
+}

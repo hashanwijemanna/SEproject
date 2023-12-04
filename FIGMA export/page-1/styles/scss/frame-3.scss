@@ -1,0 +1,64 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 26rem;
+}.frame-3-BAV {
+  padding: 2rem;
+  overflow: hidden;
+  display: flex;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  width: 100%;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+
+  .property-1default-7pq {
+    border-radius: 1rem;
+    cursor: pointer;
+    font-weight: 400;
+    color: #000000;
+    display: flex;
+    margin-bottom: 2rem;
+    font-family: Lexend, 'Source Sans Pro';
+    align-items: center;
+    height: 3.5rem;
+    font-size: 1.6rem;
+    line-height: 1.25;
+    flex-shrink: 0;
+    width: 100%;
+    white-space: nowrap;
+    justify-content: center;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  }
+  .property-1variant2-ys3 {
+    color: #000000;
+    width: 100%;
+    height: 3.5rem;
+    font-family: Lexend, 'Source Sans Pro';
+    background-color: rgba(0, 0, 0, 0.1000000015);
+    border-radius: 1rem;
+    font-weight: 400;
+    line-height: 1.25;
+    justify-content: center;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    font-size: 1.6rem;
+    white-space: nowrap;
+  }
+}
