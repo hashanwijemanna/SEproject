@@ -10,6 +10,46 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A600"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600"/>
   <link rel="stylesheet" href="./styles/admin-profile-user-activity.css"/>
+
+  <style>
+    a {
+      text-decoration: none;
+    }
+
+    .footer {
+
+          background-color: #000000;
+          color: #fff;
+          padding: 20px;
+          position: relative;
+          margin-top: 25px;
+          opacity: 0.8;
+        }
+
+        .footer::before {
+          content: "";
+          position: absolute;
+          top: -20px;
+          left: 0;
+          width: 100%;
+          height: 20px;
+          background: linear-gradient(to bottom, #333, transparent);
+          border-radius: 0 0 50% 50%;
+          z-index: 1;
+        }
+
+        .footer p {
+          margin: 0;
+          font-size: 25px;
+        }
+
+        .footer .social {
+            width: 30px;
+            height: 30px;
+        }
+
+    </style>
+
 </head>
 <body>
 <div class="admin-profile-user-activity-D89">
@@ -925,11 +965,11 @@
   </div>
   <div class="auto-group-wh31-nTw">
     <img class="rectangle-6-t1B" src="./assets/rectangle-6-WqK.png"/>
-    <div class="auto-group-1ves-C1s">Home</div>
-    <div class="auto-group-xsa7-2Wh">Products Management </div>
-    <div class="auto-group-gzbd-HSd">Oder Management</div>
-    <div class="frame-13-wn5">User Activity</div>
-    <div class="auto-group-j9ux-zEZ">Feedback Management</div>
+    <a href="home-admin.jsp"><div class="auto-group-1ves-C1s">Home</div></a>
+    <a href="product-management-2-admin.jsp"><div class="auto-group-xsa7-2Wh">Products Management </div></a>
+    <a href="order-management-admin.jsp"><div class="auto-group-gzbd-HSd">Oder Management</div></a>
+    <a href="admin-profile-user-activity.jsp"><div class="frame-13-wn5">User Activity</div></a>
+    <a href="feedback-management-2-admin.jsp"><div class="auto-group-j9ux-zEZ">Feedback Management</div></a>
     <div class="ellipse-1-doK">
     </div>
   </div>
