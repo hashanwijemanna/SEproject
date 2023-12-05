@@ -35,6 +35,8 @@
       </div>
     </div>
     <div class="auto-group-fkhr-heM">
+
+      <a href="frame-bug-KkH.jsp">
       <div class="hamburger-button-dnu">
         <div class="rectangle-87-LSR">
         </div>
@@ -43,6 +45,8 @@
         <div class="rectangle-89-Enh">
         </div>
       </div>
+      </a>
+
       <div class="component-1-arZ">
         <img class="chevron-left-JnZ" src="./assets/chevron-left.png"/>
         <div class="auto-group-7qfv-2Cm">

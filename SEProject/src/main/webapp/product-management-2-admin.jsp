@@ -13,6 +13,8 @@
 <body>
 <div class="product-managment-2-admin-fjT">
   <div class="auto-group-krgf-bND">
+
+  <a href="frame-bug-KkH.jsp">
     <div class="hamburger-button-645">
       <div class="rectangle-87-nBo">
       </div>
@@ -21,6 +23,8 @@
       <div class="rectangle-89-VM7">
       </div>
     </div>
+   </a>
+
     <p class="add-item-37j">Add Item</p>
     <img class="vector-kXw" src="./assets/vector-dED.png"/>
   </div>

@@ -13,6 +13,8 @@
 <body>
 <div class="admin-profile-urV">
   <div class="auto-group-gtns-S5j">
+
+    <a href="frame-bug-KkH.jsp">
     <div class="hamburger-button-x45">
       <div class="rectangle-87-eBo">
       </div>
@@ -21,6 +23,8 @@
       <div class="rectangle-89-jj3">
       </div>
     </div>
+    </a>
+
     <div class="frame-1-HEm">
     </div>
   </div>
