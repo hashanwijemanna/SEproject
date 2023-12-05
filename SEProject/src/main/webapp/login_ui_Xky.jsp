@@ -1,3 +1,4 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -30,7 +31,7 @@
 <div class="login-ui-7dP">
   <p class="log-in-d5w">Log-In</p>
 
-  <form action="#" method="POST">
+  <form action="LoginServlet" method="POST">
   <div class="auto-group-q8z7-8YV">
     <div class="auto-group-64sm-rUV">Username</div>
     <div class="rectangle-58-tg5">
@@ -43,7 +44,7 @@
     <center><input class="password" type="password" id="password" name="password" required style="width: 100%; padding: 10px; box-sizing: border-box; border: 0px solid #ccc; border-radius: 4px; background-color: transparent; outline: none;"></center>
     </div>
   </div>
-  <a href="home-admin.jsp"><input class="auto-group-ckhu-sgR" type="submit" value="Log-In"></a>
+  <a href="home-user.jsp"><input class="auto-group-ckhu-sgR" type="submit" value="Log-In"></a>
   </form>
 
   <div class="auto-group-f52b-Xky">

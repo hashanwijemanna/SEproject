@@ -14,7 +14,7 @@
 <div class="frame-bug-Bgy">
   <div class="auto-group-ssp5-LJy">
     <div class="hamburger-button-gdj">
-      <img class="auto-group-r9yp-mfB" src="./assets/auto-group-r9yp.png"/>
+      <a href="home-admin.jsp"><img class="auto-group-r9yp-mfB" src="./assets/auto-group-r9yp.png"/></a>
       <div class="rectangle-90-tE1">
       </div>
       <div class="rectangle-91-RUq">
