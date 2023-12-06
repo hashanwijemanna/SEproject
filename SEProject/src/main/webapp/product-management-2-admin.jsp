@@ -15,13 +15,23 @@
       text-decoration: none;
     }
 
+    body {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .main-content {
+      flex: 1;
+    }
+
+
     .footer {
            
           background-color: #000000;
           color: #fff;
           padding: 20px;
           position: relative;
-          margin-top: 25px;
+          margin-top: auto;
           opacity: 0.8;
         }
 
@@ -83,6 +93,8 @@
       </div>
     </div>
   </div>
+</div>
+
   <div class="footer">
   <br>
   <img class="logoab-removebg-preview-2-LYu" src="./assets/logoab-removebg-preview-2-sjK.png"/>
@@ -142,4 +154,5 @@
 
       </center>
     </div>
+
 </body>

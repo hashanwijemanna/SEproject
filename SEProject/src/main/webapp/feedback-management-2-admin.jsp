@@ -83,58 +83,65 @@
       </div>
     </div>
   </div>
-  <div class="auto-group-em6b-f4y">
-    <div class="auto-group-knqj-xZs">
-      <img class="logoab-removebg-preview-2-fUH" src="./assets/logoab-removebg-preview-2-acu.png"/>
-      <div class="auto-group-khcw-aLM">
-        <p class="quick-links-guB">Quick Links</p>
-        <p class="categories-2TF">Categories</p>
-        <p class="customer-service-MkR">Customer Service </p>
-      </div>
-      <div class="auto-group-mb3r-5gR">
-        <p class="paul-wayne-haggerty-road-new-orleans-louisiana-RVP">
-        608 Paul Wayne Haggerty Road, 
-        <br/>
-        New Orleans, 
-        <br/>
-        Louisiana.
-        </p>
-        <p class="home-K4y">Home</p>
-        <p class="home-living-rKo">Home &amp; Living</p>
-        <p class="contact-us-JxV">Contact Us</p>
-      </div>
-      <div class="auto-group-ggaf-Soo">
-        <p class="browse-products-xGM">Browse Products</p>
-        <p class="fashion-6NZ">Fashion</p>
-        <p class="about-us-Rfj">About Us</p>
-      </div>
-      <div class="auto-group-2yv5-ZX3">
-        <p class="my-cart-Hhw">My Cart</p>
-        <p class="groceries-d17">Groceries</p>
-      </div>
-      <div class="auto-group-qhfy-A13">
-        <p class="my-activity-69b">My Activity</p>
-        <p class="electronics-dfK">Electronics</p>
-      </div>
-      <div class="auto-group-kdjj-Av9">
-        <div class="auto-group-zxm1-t5T">
-          <p class="daily-operating-hours-800am-to-800pm-2SZ">
-          +1 504-523-0063
-          <br/>
-          (Daily operating hours 8.00a.m to 8.00p.m)
-          </p>
-          <p class="feedbacks-7U1">Feedbacks</p>
-        </div>
-        <p class="beauty-Rjb">Beauty </p>
-      </div>
-    </div>
-    <div class="auto-group-ttvz-xzR">
-      <img class="vector-53T" src="./assets/vector-Zy7.png"/>
-      <img class="vector-CNy" src="./assets/vector-Kss.png"/>
-      <img class="vector-vpm" src="./assets/vector-jky.png"/>
-      <img class="vector-UbP" src="./assets/vector-fKK.png"/>
-      <img class="vector-EKf" src="./assets/vector-PtH.png"/>
-    </div>
-  </div>
 </div>
+
+  <div class="footer">
+    <br>
+    <img class="logoab-removebg-preview-2-LYu" src="./assets/logoab-removebg-preview-2-sjK.png"/>
+        <center>
+        <table style="font-size: 20px">
+            <thead>
+              <tr>
+                <th></th>
+                <th> &nbsp&nbsp</th>
+                <th><b><u>Quick Links</u></b></th>
+                <th> &nbsp&nbsp</th>
+                <th><b><u>Categories</u></b></th>
+                <th> &nbsp&nbsp</th>
+                <th><b><u>Customer Service</u></b></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><b>608 Paul Wayne Haggerty Road,<br>
+                    New Orleans,<br>
+                    Louisiana.<br><br><br>
+                    +1 504-523-0063<br>
+                    (Daily operating hours 8.00a.m. to 8.00p.m.)</b>
+                </td>
+                <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+                <td>
+                    <br>Home<br><br>
+                    Browse Products<br><br>
+                    My Cart<br><br>
+                    My Activity<br><br>
+                    Feedbacks
+                </td>
+                <td> &nbsp&nbsp</td>
+                <td>
+                    <br>Home & Living<br><br>
+                    Fashion<br><br>
+                    Groceries<br><br>
+                    Electronics<br><br>
+                    Beauty
+                </td>
+                <td> &nbsp&nbsp</td>
+                <td>
+                    Customer Service<br><br>
+                    About Us<br><br>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <br><br><br><br>
+          <img class="social" src="./assets/vector-boT.png"/>&nbsp&nbsp&nbsp&nbsp
+              <img class="social" src="./assets/vector-k5j.png"/>&nbsp&nbsp&nbsp&nbsp
+              <img class="social" src="./assets/vector-No7.png"/>&nbsp&nbsp&nbsp&nbsp
+              <img class="social" src="./assets/vector-UkD.png"/>&nbsp&nbsp&nbsp&nbsp
+              <img class="social" src="./assets/vector-qrM.png"/>
+        <br><br><br><br>
+        <p><b>&copy; 2023 Green Cart Official</b></p><br><br>
+
+        </center>
+
 </body>
