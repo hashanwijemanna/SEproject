@@ -64,58 +64,5 @@
     <p class="phone-number-L1K">Phone Number</p>
     <p class="the-simple-description-of-the-purchased-list-fpH">The simple description of the purchased list</p>
   </div>
-  <div class="auto-group-d71v-oQh">
-    <div class="auto-group-v9gf-8C5">
-      <img class="logoab-removebg-preview-2-349" src="./assets/logoab-removebg-preview-2-5SD.png"/>
-      <div class="auto-group-if4w-8bP">
-        <p class="quick-links-3yF">Quick Links</p>
-        <p class="categories-BpZ">Categories</p>
-        <p class="customer-service-LSZ">Customer Service </p>
-      </div>
-      <div class="auto-group-6wo9-sxH">
-        <p class="paul-wayne-haggerty-road-new-orleans-louisiana-dRf">
-        608 Paul Wayne Haggerty Road, 
-        <br/>
-        New Orleans, 
-        <br/>
-        Louisiana.
-        </p>
-        <p class="home-wSM">Home</p>
-        <p class="home-living-5oT">Home &amp; Living</p>
-        <p class="contact-us-Duf">Contact Us</p>
-      </div>
-      <div class="auto-group-8qdd-xMT">
-        <p class="browse-products-goF">Browse Products</p>
-        <p class="fashion-DoB">Fashion</p>
-        <p class="about-us-MuP">About Us</p>
-      </div>
-      <div class="auto-group-5xtm-tuK">
-        <p class="my-cart-Qsf">My Cart</p>
-        <p class="groceries-M2D">Groceries</p>
-      </div>
-      <div class="auto-group-f63m-tH3">
-        <p class="my-activity-RGy">My Activity</p>
-        <p class="electronics-YsP">Electronics</p>
-      </div>
-      <div class="auto-group-7rlw-V1w">
-        <div class="auto-group-exbm-CS9">
-          <p class="daily-operating-hours-800am-to-800pm-XzD">
-          +1 504-523-0063
-          <br/>
-          (Daily operating hours 8.00a.m to 8.00p.m)
-          </p>
-          <p class="feedbacks-2RB">Feedbacks</p>
-        </div>
-        <p class="beauty-8DK">Beauty </p>
-      </div>
-    </div>
-    <div class="auto-group-ltvr-fU9">
-      <img class="vector-nYm" src="./assets/vector-3Ju.png"/>
-      <img class="vector-75F" src="./assets/vector-Qq3.png"/>
-      <img class="vector-e5B" src="./assets/vector-tL5.png"/>
-      <img class="vector-nSH" src="./assets/vector-u73.png"/>
-      <img class="vector-jMX" src="./assets/vector-iE9.png"/>
-    </div>
-  </div>
 </div>
 </body>

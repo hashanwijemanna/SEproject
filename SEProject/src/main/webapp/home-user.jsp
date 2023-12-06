@@ -36,7 +36,7 @@
     </div>
     <div class="auto-group-fkhr-heM">
 
-      <a href="frame-bug-KkH.jsp">
+      <a href="frame-bug.jsp">
       <div class="hamburger-button-dnu">
         <div class="rectangle-87-LSR">
         </div>
