@@ -33,9 +33,9 @@
 
   <form action="LoginServlet" method="POST">
   <div class="auto-group-q8z7-8YV">
-    <div class="auto-group-64sm-rUV">Username</div>
+    <div class="auto-group-64sm-rUV">Email</div>
     <div class="rectangle-58-tg5">
-    <center><input class="username" type="text" id="username" name="username" required style="width: 100%; padding: 10px; box-sizing: border-box; border: 0px solid #ccc; border-radius: 4px; background-color: transparent; outline: none;"></center>
+    <center><input class="username" type="email" id="email" name="email" required style="width: 100%; padding: 10px; box-sizing: border-box; border: 0px solid #ccc; border-radius: 4px; background-color: transparent; outline: none;"></center>
     </div>
   </div>
   <div class="auto-group-nrcx-1Vo">
@@ -44,7 +44,7 @@
     <center><input class="password" type="password" id="password" name="password" required style="width: 100%; padding: 10px; box-sizing: border-box; border: 0px solid #ccc; border-radius: 4px; background-color: transparent; outline: none;"></center>
     </div>
   </div>
-  <a href="home-user.jsp"><input class="auto-group-ckhu-sgR" type="submit" value="Log-In"></a>
+  <input class="auto-group-ckhu-sgR" type="submit" value="Log-In">
   </form>
 
   <div class="auto-group-f52b-Xky">
