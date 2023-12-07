@@ -21,7 +21,7 @@
 <div class="container">
 <body>
 <div class="login-ui-2nR">
-<form action="#" method="POST">
+<form action="<%= request.getContextPath() %>/database-signup.jsp" method="POST">
   <div class="auto-group-m8ww-a3F">
     <div class="auto-group-wqw9-u5X">Full Name</div>
     <div class="rectangle-58-9Vf">
