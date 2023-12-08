@@ -14,6 +14,24 @@
     <url-pattern>/LoginServlet</url-pattern>
   </servlet-mapping>
 
+  <servlet>
+    <servlet-name>User</servlet-name>
+    <servlet-class>User</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>User</servlet-name>
+    <url-pattern>/User</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>UserDao</servlet-name>
+    <servlet-class>UserDao</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UserDao</servlet-name>
+    <url-pattern>/UserDao</url-pattern>
+  </servlet-mapping>
+
 </web-app>
 
 

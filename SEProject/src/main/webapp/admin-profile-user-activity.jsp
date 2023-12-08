@@ -1,6 +1,4 @@
 <%@ page import="java.util.List" %>
-<%@ page import="com.java.UserDao" %>
-<%@ page import="com.java.User" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html>
@@ -53,52 +51,48 @@
         }
 
 
+        table {
+                    border-collapse: collapse;
+                    width: 100%;
+                }
 
+                table, th, td {
+                    border: 1px solid black;
+                }
 
+                th, td {
+                    padding: 8px;
+                    text-align: left;
+                }
+
+                th {
+                    background-color: #f2f2f2;
+                }
+
+        .center-table {
+          text-align: center;
+          margin: 20px auto; /* Adjust the margin as needed */
+        }
+
+        .table-container {
+          width: 80%; /* Adjust the width as needed */
+          margin: 0 auto;
+        }
     </style>
 
 </head>
 <body>
 <div class="admin-profile-user-activity-D89">
 
-<div id="searchDiv">
-        <input type="text" id="searchKeyword" placeholder="Search by name" onkeyup="searchTable()">
-    </div>
+<div class="center-table">
+<h2>User Table</h2>
 
-    <table border="1">
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>Full Name</th>
-                <th>NIC</th>
-                <th>Email</th>
-                <th>Phone Number</th>
-                <th>Password</th>
+    <?php include 'user_table.php'; ?>
+</div>
 
-            </tr>
-        </thead>
-        <tbody>
-            <%
-                UserDao userDao = new UserDao();
-                List<User> userList = userDao.getAllUsers();
-
-                for (User user : userList) {
-            %>
-                <tr>
-                    <td><%= user.getId() %></td>
-                    <td><%= user.getFName() %></td>
-                    <td><%= user.getNIC() %></td>
-                    <td><%= user.getEmail() %></td>
-                    <td><%= user.getPhone() %></td>
-                    <td><%= user.getPass() %></td>
-                </tr>
-            <%
-                }
-            %>
-        </tbody>
-    </table>
 
   <div class="auto-group-w2hr-4eR">
+
     <img class="vector-uf3" src="./assets/vector-2oP.png"/>
   </div>
   <div class="auto-group-wh31-nTw">
