@@ -129,7 +129,7 @@
         <div class="table-container">
         <div class="search-bar">
                   <input type="text" id="searchField" placeholder="Search by User ID, Name, Email, etc." />
-                </div>
+                </div><br>
             <table border="0">
                 <thead>
                     <tr>
