@@ -83,6 +83,8 @@
                     background-color: #fff;
                     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
                     font-size: 25px;
+                    opacity: 0.8;
+                    border-radius: 30px;
                 }
 
                 th, td {
@@ -146,10 +148,10 @@
                 <tbody>
                     <%
                         try {
-                            Class.forName("com.mysql.cj.jdbc.Driver"); // Replace with your actual database driver
-                            Connection conn = DriverManager.getConnection("jdbc:mysql://sql12.freesqldatabase.com:3306/sql12668368", "sql12668368", "6QTvbJSfdb"); // Replace with your actual database connection details
+                            Class.forName("com.mysql.cj.jdbc.Driver");
+                            Connection conn = DriverManager.getConnection("jdbc:mysql://sql12.freesqldatabase.com:3306/sql12668368", "sql12668368", "6QTvbJSfdb");
 
-                            String sql = "SELECT * FROM users"; // Replace with your actual table name
+                            String sql = "SELECT * FROM users";
                             PreparedStatement stmt = conn.prepareStatement(sql);
                             ResultSet rs = stmt.executeQuery();
 
