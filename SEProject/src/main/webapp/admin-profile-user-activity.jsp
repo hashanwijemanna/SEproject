@@ -1,4 +1,12 @@
-<%@ page import="java.util.List" %>
+<%@ page import="java.sql.Connection" %>
+<%@ page import="java.sql.DriverManager" %>
+<%@ page import="java.sql.PreparedStatement" %>
+<%@ page import="java.sql.ResultSet" %>
+<%@ page import="java.sql.SQLException" %>
+<%@ page import="java.sql.*" %>
+
+
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html>
@@ -50,51 +58,137 @@
             height: 30px;
         }
 
-
-        table {
-                    border-collapse: collapse;
-                    width: 100%;
+        body {
+                    font-family: 'Source Sans Pro', sans-serif;
+                    background-color: #f0f0f0;
+                    margin: 0;
+                    padding: 0;
                 }
 
-                table, th, td {
-                    border: 1px solid black;
+                center {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    height: 100vh;
+                }
+
+                .table-container {
+                    margin-top: 20px;
+                }
+
+                table {
+                    border-collapse: collapse;
+                    width: 80%;
+                    margin: 0 auto;
+                    background-color: #fff;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                    font-size: 25px;
                 }
 
                 th, td {
-                    padding: 8px;
+                    padding: 15px;
                     text-align: left;
+                    border-bottom: 1px solid #ddd;
                 }
 
                 th {
                     background-color: #f2f2f2;
                 }
 
-        .center-table {
-          text-align: center;
-          margin: 20px auto; /* Adjust the margin as needed */
-        }
+                tr:hover {
+                    background-color: #f5f5f5;
+                }
 
-        .table-container {
-          width: 80%; /* Adjust the width as needed */
-          margin: 0 auto;
-        }
+                form {
+                    display: inline;
+                }
+
+                .search-bar {
+                  width: 500px;
+                  font-size: 50px;
+                  border: 0px solid #ddd;
+                  border-radius: 5px;
+                }
+
+                #searchField {
+                  justify-content: center;
+                  width: 500px;
+                  border: none;
+                  outline: none;
+                  font-size: 25px;
+                }
     </style>
 
 </head>
 <body>
 <div class="admin-profile-user-activity-D89">
 
-<div class="center-table">
-<h2>User Table</h2>
 
-    <?php include 'user_table.php'; ?>
-</div>
+<center>
+<!-- Display Database Table -->
+        <div class="table-container">
+        <div class="search-bar">
+                  <input type="text" id="searchField" placeholder="Search by User ID, Name, Email, etc." />
+                </div>
+            <table border="0">
+                <thead>
+                    <tr>
+                        <th>User ID</th>
+                        <th>Full Name</th>
+                        <th>NIC</th>
+                        <th>Email</th>
+                        <th>Phone Number</th>
+                        <th>Password</th>
+                        <th>Action</th>
+                        <!-- Add more columns as needed -->
+                    </tr>
+                </thead>
+                <tbody>
+                    <%
+                        try {
+                            Class.forName("com.mysql.cj.jdbc.Driver"); // Replace with your actual database driver
+                            Connection conn = DriverManager.getConnection("jdbc:mysql://sql12.freesqldatabase.com:3306/sql12668368", "sql12668368", "6QTvbJSfdb"); // Replace with your actual database connection details
+
+                            String sql = "SELECT * FROM users"; // Replace with your actual table name
+                            PreparedStatement stmt = conn.prepareStatement(sql);
+                            ResultSet rs = stmt.executeQuery();
+
+                            while (rs.next()) {
+                    %>
+                                <tr>
+                                    <td><%= rs.getString("user_id") %></td>
+                                    <td><%= rs.getString("full_name") %></td>
+                                    <td><%= rs.getString("nic") %></td>
+                                    <td><%= rs.getString("email") %></td>
+                                    <td><%= rs.getString("phone_number") %></td>
+                                    <td><%= rs.getString("password") %></td>
+                                    <td>
+                                       <form action="deleteUser.jsp" method="post">
+                                       <input type="hidden" name="userId" value="<%= rs.getString("user_id") %>">
+                                       <input type="submit" value="Delete">
+                                       </form>
+                                    </td>
+                                    <!-- Add more cells as needed -->
+                                </tr>
+                    <%
+                            }
+
+                            rs.close();
+                            stmt.close();
+                            conn.close();
+                        } catch (SQLException | ClassNotFoundException e) {
+                            e.printStackTrace();
+                        }
+                    %>
+                </tbody>
+            </table>
+        </div>
+        </center>
 
 
-  <div class="auto-group-w2hr-4eR">
 
-    <img class="vector-uf3" src="./assets/vector-2oP.png"/>
-  </div>
+
+
   <div class="auto-group-wh31-nTw">
     <img class="rectangle-6-t1B" src="./assets/rectangle-6-WqK.png"/>
     <a href="home-admin.jsp"><div class="auto-group-1ves-C1s">Home</div></a>
@@ -104,6 +198,7 @@
     <a href="feedback-management-2-admin.jsp"><div class="auto-group-j9ux-zEZ">Feedback Management</div></a>
     <div class="ellipse-1-doK">
     </div>
+
   </div>
 
   <a href="frame-bug-KkH.jsp">
@@ -118,68 +213,21 @@
   </a>
 </div>
 
-  <div class="footer">
-  <br>
-  <img class="logoab-removebg-preview-2-LYu" src="./assets/logoab-removebg-preview-2-sjK.png"/>
-      <center>
-      <table style="font-size: 20px">
-          <thead>
-            <tr>
-              <th></th>
-              <th> &nbsp&nbsp</th>
-              <th><b><u>Quick Links</u></b></th>
-              <th> &nbsp&nbsp</th>
-              <th><b><u>Categories</u></b></th>
-              <th> &nbsp&nbsp</th>
-              <th><b><u>Customer Service</u></b></th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><b>608 Paul Wayne Haggerty Road,<br>
-                  New Orleans,<br>
-                  Louisiana.<br><br><br>
-                  +1 504-523-0063<br>
-                  (Daily operating hours 8.00a.m. to 8.00p.m.)</b>
-              </td>
-              <td> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
-              <td>
-                  <br>Home<br><br>
-                  Browse Products<br><br>
-                  My Cart<br><br>
-                  My Activity<br><br>
-                  Feedbacks
-              </td>
-              <td> &nbsp&nbsp</td>
-              <td>
-                  <br>Home & Living<br><br>
-                  Fashion<br><br>
-                  Groceries<br><br>
-                  Electronics<br><br>
-                  Beauty
-              </td>
-              <td> &nbsp&nbsp</td>
-              <td>
-                  Customer Service<br><br>
-                  About Us<br><br>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        <br><br><br><br>
-        <img class="social" src="./assets/vector-boT.png"/>&nbsp&nbsp&nbsp&nbsp
-            <img class="social" src="./assets/vector-k5j.png"/>&nbsp&nbsp&nbsp&nbsp
-            <img class="social" src="./assets/vector-No7.png"/>&nbsp&nbsp&nbsp&nbsp
-            <img class="social" src="./assets/vector-UkD.png"/>&nbsp&nbsp&nbsp&nbsp
-            <img class="social" src="./assets/vector-qrM.png"/>
-      <br><br><br><br>
-      <p><b>&copy; 2023 Green Cart Official</b></p><br><br>
-
-      </center>
 
 
-</div>
+<script>
+      const table = document.querySelector('table tbody');
+      const searchField = document.getElementById('searchField');
 
+      searchField.addEventListener('keyup', function(event) {
+        const searchTerm = event.target.value.toLowerCase();
 
+        table.querySelectorAll('tr').forEach(function(row) {
+          const rowText = row.textContent.toLowerCase();
+          const shouldShow = rowText.includes(searchTerm);
+          row.style.display = shouldShow ? 'table-row' : 'none';
+        });
+      });
+    </script>
 
 </body>
