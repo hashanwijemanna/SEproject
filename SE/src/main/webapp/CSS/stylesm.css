@@ -1,0 +1,44 @@
+body {
+	overflow: hidden;
+}
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  min-height: 100%;
+}
+* {
+  text-align: center;
+}
+.content {
+  position: relative;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 25px;
+  color: #f1f1f1;
+  max-width: 500px;
+  margin: auto;
+}
+.pre_title {
+  position: relative;
+  color: #f1f1f1;
+  width: 100%;
+  font-family: Verdana,sans-serif;
+  font-size: 50px;
+}
+.text_name {
+	font-family: Verdana,sans-serif;
+	font-size: 20px;
+}
+.text_dis {
+	font-family: Verdana,sans-serif;
+	font-size: 15px;
+}
+
+img {
+	position:relative;
+	float:right;
+	margin-right: 30px;
+	width: 60px;
+	height: 60px;
+}

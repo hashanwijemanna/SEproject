@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+}
+.page{
+	margin-right: 0;
+	margin-bottom: 0;
+	background-size: cover;
+	width: 100%;
+	height: 200vh;
+	position: absolute;
+	z-index: -1;
+}
+h1{
+	font-family: 'Dangrek';
+	font-size: 90px;
+	position: absolute;
+	color: rgb(0, 0, 0);
+	left: 39%;
+	top: 2%;
+	text-align: center;
+	color:#040b03;
+}
+p{
+	position: absolute;
+	top: 90%;
+	color: #000000;
+	left: 36.5%;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+.slideshow_container {
+	width: 1500px;
+	height: 400px;
+	position: relative;
+  }

@@ -1,0 +1,26 @@
+::-webkit-scrollbar {
+	display: none;
+}
+#body {
+	font-family: Verdana,sans-serif;
+	text-align: center;
+	background-color: #d7edfc;
+}
+#student-name {
+	margin-top: 70px;
+	font-size: 50px;
+}
+.student-image {
+	height: 450px;
+	width: 380px;
+	border-radius: 20px;
+	border: 3px solid;
+}
+.details-area .details {
+	font-size: 30px;
+}
+.details-area .description {
+	margin-left: 100px;
+	margin-right: 100px;
+	font-size: 30px;
+}

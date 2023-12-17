@@ -1,0 +1,43 @@
+body{
+	margin: 0px;
+	color: white;
+	}
+.main{
+	position: relative;
+	margin-top: 0px;
+	
+	}
+
+.heading{
+	position: absolute;
+	margin-top: 0px;
+	width: 100%;
+	top: 20%;
+  	text-align: center;
+  	font-family: 'Trebuchet MS', sans-serif;
+  	font-size: 70px;
+	}
+#description{
+	position: absolute;
+	top: 28%;
+	left: 39%;
+	font-family: 'Trebuchet MS', sans-serif;
+	font-weight: bold;
+	}
+/* setting the size of the main image */ 
+#titleimage{
+	width: 100%;
+	height: 500px;
+}
+/* setting the size and position of the page editor image  */ 
+.editor{
+	margin-left: 93%;
+	position: absolute;
+}
+#top_icon{
+	position: absolute;
+	z-index: 1;
+}
+.icons{
+	left: 5%;
+}
