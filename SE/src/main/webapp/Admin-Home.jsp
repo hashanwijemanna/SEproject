@@ -33,11 +33,13 @@
 		<!--Description-->
 		<p></p>
 		<!--Logo-->
-		<a href="Home.html"><img class="logo" src="./Images/LogoAB.jpg" alt="logo"  width="50" height="50"></a>
+		<a href="Home.html"><img class="logo" src="./Images/LogoAB.png" alt="logo"  width="50" height="50"></a>
 		<!--Navigation bar-->
 		<ul id="navigation">
 			<li class="parts"><a href="Admin-Home.jsp">Home</a></li>
 			<li class="parts"><a href="Users.jsp">Users</a></li>
+			<li class="parts"><a href="Admin-Products.jsp">Products</a></li>
+			<li class="parts"><a href="Admin-Feedback.jsp">Feedbacks</a></li>
 		</ul>
 		<div class="slider">
 

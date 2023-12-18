@@ -18,13 +18,12 @@
 		<!--Description-->
 		<p></p>
 		<!--Logo-->
-		<a href="Home.html"><img class="logo" src="./Images/LogoAB.jpg" alt="logo"  width="50" height="50"></a>
+		<a href="Home.html"><img class="logo" src="./Images/LogoAB.png" alt="logo"  width="50" height="50"></a>
 		<!--Navigation bar-->
 		<ul id="navigation">
 			<li class="parts"><a href="Home.jsp">Home</a></li>
-			<li class="parts"><a href="Browse _Products.jsp">Browse Products</a></li>
-			<li class="parts"><a href="#">Feedback</a></li>
-			<li class="parts"><a href="#">About Us</a></li>
+			<li class="parts"><a href="BrowseProducts.jsp">Browse Products</a></li>
+			<li class="parts"><a href="feedbacks.jsp">Feedback</a></li>
 			<li class="parts"><a href="#">About Us</a></li>
 		</ul>
 		<div class="slider">

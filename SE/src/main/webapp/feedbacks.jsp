@@ -8,7 +8,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ERROR!</title>
+    <title>Feedback</title>
     <link rel="stylesheet" href="./CSS/navigationbarblack.css">
     		<link rel="stylesheet" href="./CSS/Slider.css">
     <style>
@@ -91,17 +91,37 @@
 <body>
 
 <div class="container">
+<a href="Home.html"><img class="logo" src="./Images/LogoAB.png" alt="logo"  width="50" height="50"></a>
+		<!--Navigation bar-->
+		<ul id="navigation">
+			<li class="parts"><a href="Home.jsp">Home</a></li>
+			<li class="parts"><a href="BrowseProducts.jsp">Browse Products</a></li>
+			<li class="parts"><a href="feedbacks.jsp">Feedback</a></li>
+			<li class="parts"><a href="#">About Us</a></li>
+		</ul>
 <br><br><br><br><br><br>
-<center><img src="./Images/error.png" style="width: 200px; height: auto;"></center><br>
-<center><a href="#" onclick="goBack()"><button style="padding: 16px 32px; background-color: red; color: white; border: none; border-radius: 3px; cursor: pointer; transition: background-color 0.3s;"><b><< Go Back</b></button></a></center><br>
+
+<div class="feedback-form">
+        <h2>Feedback Form</h2>
+        <form action="FeedbackServlet" method="post">
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+            </div>
+            <button type="submit" class="submit-btn">Submit</button>
+        </form>
+    </div>
+
 </div>
 
-
-<script>
-        function goBack() {
-            window.history.back();
-        }
-    </script>
 
 </body>
 </html>

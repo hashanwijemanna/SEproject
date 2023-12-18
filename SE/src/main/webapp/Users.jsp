@@ -31,7 +31,6 @@
               display: flex;
               align-items: center;
               justify-content: center;
-              height: 100vh;
               margin: 0;
                     padding: 0;
 		}
@@ -93,16 +92,19 @@
 	</head>
 	<body>
         		<!--Logo-->
-        		<a href="Home.html"><img class="logo" src="./Images/LogoAB.jpg" alt="logo"  width="50" height="50"></a>
+        		<a href="Home.html"><img class="logo" src="./Images/LogoAB.png" alt="logo"  width="50" height="50"></a>
         		<!--Navigation bar-->
         		<ul id="navigation">
         			<li class="parts"><a href="Admin-Home.jsp">Home</a></li>
         			<li class="parts"><a href="Users.jsp">Users</a></li>
+			        <li class="parts"><a href="Admin-Products.jsp">Products</a></li>
+			        <li class="parts"><a href="Admin-Feedback.jsp">Feedbacks</a></li>
         		</ul>
 
 
 
             <div class="table-container">
+            <br><br><br><br><br><br>
                     <div class="search-bar">
                             <input type="text" id="searchField" placeholder="Search by User ID, Name, Email, etc." />
                             </div><br>
@@ -133,9 +135,9 @@
                                                 <td><%= rs.getString("email") %></td>
                                                 <td><%= rs.getString("password") %></td>
                                                 <td>
-                                                   <form action="deleteUser.jsp" method="post">
+                                                   <form action="DeleteUser.jsp" method="post">
                                                    <input type="hidden" name="userId" value="<%= rs.getString("user_id") %>">
-                                                   <input type="submit" value="Delete">
+                                                   <input style="padding: 8px 16px; background-color: #f51010; color: white; border: none; border-radius: 3px; cursor: pointer; transition: background-color 0.3s;" type="submit" value="Delete">
                                                    </form>
                                                 </td>
                                             </tr>
