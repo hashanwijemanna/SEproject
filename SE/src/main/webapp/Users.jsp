@@ -121,7 +121,7 @@
                                 <%
                                     try {
                                         Class.forName("com.mysql.cj.jdbc.Driver");
-                                        Connection conn = DriverManager.getConnection("jdbc:mysql://sql12.freesqldatabase.com:3306/sql12669773", "sql12669773", "gdWtCjfCcI");
+                                        Connection conn = DriverManager.getConnection("jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12672409", "sql12672409", "hqZveYqKfy");
 
                                         String sql = "SELECT * FROM users";
                                         PreparedStatement stmt = conn.prepareStatement(sql);
