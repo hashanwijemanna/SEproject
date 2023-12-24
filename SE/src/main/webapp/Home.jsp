@@ -7,7 +7,7 @@
 		<link href='https://fonts.googleapis.com/css?family=Dangrek' rel='stylesheet'>
 		<!--CSS-->
 		<link rel="stylesheet" href="./CSS/home.css">
-		<link rel="stylesheet" href="./CSS/navigationbarblack.css">
+		<link rel="stylesheet" href="./CSS/navigationbar.css">
 		<link rel="stylesheet" href="./CSS/Slider.css">
 		<title>HomePage</title>	
 	</head>

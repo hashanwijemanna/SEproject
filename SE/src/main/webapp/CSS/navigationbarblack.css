@@ -5,16 +5,17 @@ body {
 #navigation li{
 	display: inline;
 	text-decoration: none;
+	margin: 0 20px;
 }
 #navigation a{
 	text-decoration: none;
 	padding: 9px 18px;
-	color: black;
+	color: white;
 	font-weight: bold;
 	border-radius: 18px;
 }
 .parts :hover{
-	background-color: rgba(0, 0, 0, 0.2);
+	background-color: rgba(255, 255, 255, 0.2);
 	height: 5px;
 	z-index: 1;
 }
@@ -23,8 +24,9 @@ body {
 	margin-left: 51%;
 	top: 1%;
 	font-family: sans-serif;
-	color: black;
+	color: rgb(17, 5, 5);
 	z-index: 1;
+	transform: translate(30%);
 }
 .logo{
 	position: absolute;
@@ -34,4 +36,9 @@ body {
 }
 body {
 	margin:0;
+}
+.navigation li::after
+{
+
+
 }

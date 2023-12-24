@@ -9,7 +9,6 @@
       rel="stylesheet"
     />
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="./CSS/Browse_Products.css" />
     <link rel="stylesheet" href="./CSS/navigationbarblack.css">
   </head>
   <body>

@@ -9,22 +9,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Feedback</title>
-    <link rel="stylesheet" href="./CSS/navigationbarblack.css">
+    <link rel="stylesheet" href="./CSS/navigationbar.css">
     		<link rel="stylesheet" href="./CSS/Slider.css">
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
         body {
             background-image: url('./Images/toa-heftiba-0lEn122_OGA-unsplash.jpg');
             background-size: cover;
             background-attachment: fixed;
             background-position: center;
             background-repeat: no-repeat;
-            font-family: Arial, sans-serif;
+            font-family: 'Poppins', sans-serif;
             display: flex;
-            align-items: center;
             justify-content: center;
             margin: 0;
             padding: 0;
-            color: #00000;
+            color: #0000;
         }
 
         .container {
@@ -36,34 +36,40 @@
 
         .feedback-form {
             max-width: 400px;
-            width: 100%;
+            width: 500%;
             background-color: #fff;
             padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
+            box-shadow: 0 0 20px #6759ff;
+            border-radius: 15px;
+            position: relative;
         }
 
         .feedback-form h2 {
             text-align: center;
-            color: #333;
+            color: #6759ff;
         }
 
         .form-group {
             margin-bottom: 20px;
+            border-bottom: #6759ff;
+            background-color: transparent;
+            width: 100%;
+            border-bottom: 2px solid #6759ff;
+            padding: 1em 0.3em;
         }
 
         label {
             display: block;
             font-size: 16px;
             margin-bottom: 8px;
-            color: #555;
+            color: #6759ff;
         }
 
         input, textarea {
             width: 100%;
             padding: 10px;
             box-sizing: border-box;
-            border: 1px solid #ccc;
+            border: 1px solid #6759ff;
             border-radius: 4px;
             font-size: 16px;
         }
@@ -73,18 +79,35 @@
         }
 
         .submit-btn {
-            background-color: #4caf50;
-            color: #fff;
-            padding: 10px 15px;
-            border: none;
-            border-radius: 4px;
+            border: 2px solid #6759ff;
+            padding: 1em 2.2em;
+            border-radius: 3em;
+            background-color: transparent;
+            color: #6759ff;
             cursor: pointer;
-            font-size: 16px;
-            transition: background-color 0.3s ease;
+            position: relative;
+            align-items: center;
+            transform: translate(20%);
         }
 
         .submit-btn:hover {
-            background-color: #45a049;
+            background-color: #aeaaf8;
+        }
+
+        .clear-btn {
+            border: 2px solid #6759ff;
+            padding: 1em 2.2em;
+            border-radius: 3em;
+            background-color: transparent;
+            color: #6759ff;
+            cursor: pointer;
+            position: relative;
+            float: right;
+            transform: translate(-20%);
+        }
+
+        .clear-btn:hover {
+            background-color: #aeaaf8;
         }
     </style>
 </head>
@@ -117,6 +140,7 @@
                 <textarea id="message" name="message" rows="4" required></textarea>
             </div>
             <button type="submit" class="submit-btn">Submit</button>
+            <button type="Reset" class="clear-btn">Clear</button>
         </form>
     </div>
 
