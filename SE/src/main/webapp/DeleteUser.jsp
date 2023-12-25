@@ -5,10 +5,10 @@
 
 <%
     String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
-    String DB_URL = "jdbc:mysql://sql12.freesqldatabase.com:3306/sql12669773";
+    String DB_URL = "jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12672409";
 
-    String USER = "sql12669773";
-    String PASS = "gdWtCjfCcI";
+    String USER = "sql12672409";
+    String PASS = "hqZveYqKfy";
 
     Connection conn = null;
     Statement stmt = null;

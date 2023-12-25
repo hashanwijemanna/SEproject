@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Animated Login Form</title>
+  <link rel="icon" href="./Images/LogoAB.png" type="image/x-icon">
   <link rel="stylesheet" href="./CSS/index.css">
   <script>
     setTimeout(function() {

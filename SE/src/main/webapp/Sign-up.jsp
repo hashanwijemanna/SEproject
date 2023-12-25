@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Animated Login Form</title>
+  <title>Sign-up</title>
+  <link rel="icon" href="./Images/LogoAB.png" type="image/x-icon">
   <link rel="stylesheet" href="./CSS/Sign-Up.css">
   <style>
     .error {
@@ -48,19 +49,19 @@
 </div>
 
 <script>
-function validatePassword() {
-  var password = document.getElementById("password").value;
-  var cpass = document.getElementById("cpass").value;
-  var passwordError = document.getElementById("passwordError");
+  function validatePassword() {
+    var password = document.getElementById("password").value;
+    var cpass = document.getElementById("cpass").value;
+    var passwordError = document.getElementById("passwordError");
 
-  if (password !== cpass) {
-    passwordError.innerText = "Password doesn't match!";
-    return false;
-  } else {
-    passwordError.innerText = "";
-    return true;
+    if (password !== cpass) {
+      passwordError.innerText = "Password doesn't match!";
+      return false;
+    } else {
+      passwordError.innerText = "";
+      return true;
+    }
   }
-}
 </script>
 
 </body>

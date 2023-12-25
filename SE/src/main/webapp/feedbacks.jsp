@@ -9,6 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Feedback</title>
+    <link rel="icon" href="./Images/LogoAB.png" type="image/x-icon">
     <link rel="stylesheet" href="./CSS/navigationbar.css">
     		<link rel="stylesheet" href="./CSS/Slider.css">
     <style>

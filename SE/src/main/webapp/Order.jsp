@@ -10,6 +10,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Item Details</title>
+    <link rel="icon" href="./Images/LogoAB.png" type="image/x-icon">
     <link rel="stylesheet" href="./CSS/navigationbar.css">
     <link rel="stylesheet" href="./CSS/Slider.css">
     <style>
@@ -56,6 +57,7 @@
             max-width: 100%;
             border-radius: 10px;
             margin-bottom: 20px;
+            transform: translate(15%);
         }
 
         .pay-btn {
@@ -67,7 +69,7 @@
             cursor: pointer;
             position: relative;
             align-items: center;
-            transform: translate(5%);
+            transform: translate(100%);
         }
 
         .pay-btn:hover {
@@ -82,7 +84,7 @@
             cursor: pointer;
             position: relative;
             align-items: center;
-            transform: translate(50%);
+            transform: translate(95%);
         }
 
         .cash-btn:hover {

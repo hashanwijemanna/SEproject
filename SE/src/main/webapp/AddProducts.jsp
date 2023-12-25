@@ -9,9 +9,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Add Products - Admin</title>
+    <link rel="icon" href="./Images/LogoAB.png" type="image/x-icon">
     <link rel="stylesheet" href="./CSS/home.css">
     <link rel="stylesheet" href="./CSS/navigationbarblack.css">
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            border: none;
+            outline: none;
+            font-family: "Poppins", sans-serif;
+        }
         body {
             background-image: url('./Images/toa-heftiba-0lEn122_OGA-unsplash.jpg');
             background-size: cover;
@@ -33,20 +43,30 @@
             flex-direction: column;
             align-items: flex-start;
         }
+        .wrapper {
+            width: 60%;
+            margin: 0 auto;
 
-        .container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 20px;
-            border-radius: 10px;
-            max-width: 400px;
+        }
+        #container {
+            margin: 1em 0;
+            transform: translate(35%,250%);
+        }
+
+
+        #container input {
+            background-color: transparent;
+            width: 40%;
+            border-bottom: 2px solid #110f29;
+            padding: 1em 0.3em;
+        }
+        #container input:focus {
+            border-bottom-color: #6759ff;
         }
 
         .container h2 {
             color: #333;
         }
-
         .input-box {
             position: relative;
             margin-bottom: 20px;

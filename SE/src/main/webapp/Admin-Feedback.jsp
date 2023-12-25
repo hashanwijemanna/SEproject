@@ -9,9 +9,58 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Feedbacks-Admin</title>
+    <link rel="icon" href="./Images/LogoAB.png" type="image/x-icon">
     <link rel="stylesheet" href="./CSS/home.css">
     		<link rel="stylesheet" href="./CSS/navigationbarblack.css">
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            border: none;
+            outline: none;
+            font-family: "Poppins", sans-serif;
+        }
+        body {
+            background-color:#f5f8ff;
+        }
+        .wrapper {
+            width: 60%;
+            margin: 0 auto;
+
+        }
+        #search-container {
+            margin: 1em 0;
+            transform: translate(-35%,30%);
+        }
+        #search-container input {
+            background-color: transparent;
+            width: 110%;
+            border-bottom: 2px solid #110f29;
+            padding: 1em 0.3em;
+        }
+        #search-container input:focus {
+            border-bottom-color: #6759ff;
+
+        }
+        #search-container button {
+            padding: 1em 2em;
+            margin-left: 1em;
+            background-color: #6759ff;
+            color: #ffffff;
+            border-radius: 5px;
+            margin-top: 0.5em;
+            transform: translate(175%,-110%);
+        }
+        .search-btn-value {
+            border: 2px solid #6759ff;
+            padding: 1em 2.2em;
+            border-radius: 3em;
+            background-color: transparent;
+            color: #6759ff;
+            cursor: pointer;
+        }
         body {
             background-image: url('./Images/toa-heftiba-0lEn122_OGA-unsplash.jpg');
             background-size: cover;
@@ -79,6 +128,21 @@
             flex-direction: column;
             align-items: center;
         }
+        .delete-btn {
+            border: 2px solid #e31952;
+            padding: 1em 2.2em;
+            border-radius: 3em;
+            background-color: transparent;
+            color: #ec3f87;
+            cursor: pointer;
+            position: relative;
+            float: right;
+            transform: translate(0%);
+        }
+
+        .delete-btn:hover {
+            background-color: #ef94ba;
+        }
     </style>
 </head>
 <body>
@@ -94,9 +158,15 @@
 <br><br><br><br><br>
 
     <header>
-        <div class="search-bar">
-            <input type="text" id="searchField" placeholder="Search.." />
-        </div>
+        <div class="wrapper">
+            <div id="search-container">
+                <input
+                        type="search"
+                        id="search-input"
+                        placeholder="Search feedback here.."
+                />
+                <button id="search">Search</button>
+            </div>
     </header>
 
     <table>
@@ -129,7 +199,7 @@
             <td>
             <form action="DeleteFeedback.jsp" method="post">
                  <input type="hidden" name="Code" value="<%= rs.getString("feedback_id") %>">
-                 <input style="padding: 8px 16px; background-color: #f51010; color: white; border: none; border-radius: 3px; cursor: pointer; transition: background-color 0.3s;" type="submit" value="Delete">
+                <input style="padding: 8px 16px; background-color: #f51010; color: white; border: none; border-radius: 3px; cursor: pointer; transition: background-color 0.3s;" type="submit" value="Delete">
             </form>
             </td>
 
