@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -7,41 +7,36 @@
   <link rel="stylesheet" href="./CSS/Sign-Up.css">
   <style>
     .error {
-      color: white;
-      font-size: 20px;
+      color: red;
+      font-size: 14px;
       margin-top: 5px;
     }
   </style>
 </head>
 <body>
 <div class="box">
-  <form id="SignServlet" method="post" onsubmit="return validateForm()">
+  <form id="signupForm" action="SignServlet" method="POST" onsubmit="return validatePassword()">
     <h2>Sign-Up</h2>
     <div class="inputBox">
-      <input type="text" required>
+      <input type="text" class="username" id="username" name="username" required>
       <span>Username</span>
       <i></i>
     </div>
     <div class="inputBox">
-      <input type="text" required>
-      <span>NIC</span>
-      <i></i>
-    </div>
-    <div class="inputBox">
-      <input type="email" required>
+      <input type="email" class="email" id="email" name="email" required>
       <span>Email</span>
       <i></i>
     </div>
     <div class="inputBox">
-      <input type="password" id="password" required>
+      <input type="password" class="password" id="password" name="password" required>
       <span>Create Password</span>
       <i></i>
     </div>
     <div class="inputBox">
-      <input type="password" id="confirmPassword" required>
+      <input type="password" class="cpass" id="cpass" name="cpass" required>
       <span>Confirm Password</span>
       <i></i>
-      <div class="error" id="passwordError"></div>
+      <p id="passwordError" class="error" style="color:red;"></p>
     </div>
     <input type="submit" value="Sign-Up">
     <div class="links">
@@ -50,21 +45,23 @@
     </div>
   </form>
 
-  <script>
-    function validateForm() {
-      var password = document.getElementById('password').value;
-      var confirmPassword = document.getElementById('confirmPassword').value;
-      var passwordError = document.getElementById('passwordError');
-
-      if (password !== confirmPassword) {
-        passwordError.textContent = 'Passwords do not match!';
-        return ; // Prevent form submission
-      } else {
-        passwordError.textContent = '';
-        return true; // Allow form submission
-      }
-    }
-  </script>
 </div>
+
+<script>
+function validatePassword() {
+  var password = document.getElementById("password").value;
+  var cpass = document.getElementById("cpass").value;
+  var passwordError = document.getElementById("passwordError");
+
+  if (password !== cpass) {
+    passwordError.innerText = "Password doesn't match!";
+    return false;
+  } else {
+    passwordError.innerText = "";
+    return true;
+  }
+}
+</script>
+
 </body>
 </html>
