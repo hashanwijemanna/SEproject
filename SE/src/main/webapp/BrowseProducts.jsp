@@ -187,7 +187,7 @@
                 <div class="card-content">
                     <h2><%= itemName %></h2>
                     <p><%= itemDescription %></p>
-                    <p class="price">LKR <%= itemPrice %></p>
+                    <p class="price">$ <%= itemPrice %></p>
                     <button>
                         <a href="Order.jsp?itemCode=<%= itemCode %>">Order</a>
                     </button>

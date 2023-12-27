@@ -123,9 +123,10 @@
         <img src="<%= itemImage %>" alt="<%= itemName %> Image">
         <p><strong>Item Code:</strong> <%= itemCode %></p>
         <p><strong>Description:</strong> <%= itemDescription %></p>
-        <p><strong>Price:</strong> LKR <%= itemPrice %></p>
+        <p><strong>Price:</strong> $ <%= itemPrice %></p>
         <div class="button-pay">
-            <button class="pay-btn">Pay Now</button>
+<a href="CheckOut.jsp"><button class="pay-btn">Pay Now</button></a>
+
             <button class="cash-btn">Cash on Delivery</button>
         </div>
         <%

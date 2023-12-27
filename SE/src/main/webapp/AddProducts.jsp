@@ -34,7 +34,7 @@
             justify-content: center;
             margin: 0;
             padding: 0;
-            color: #00000;
+            color: #0000;
         }
 
         header {
