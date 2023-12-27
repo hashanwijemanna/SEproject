@@ -149,6 +149,7 @@
         			<li class="parts"><a href="Users.jsp">Users</a></li>
         			<li class="parts"><a href="Admin-Products.jsp">Products</a></li>
 			        <li class="parts"><a href="Admin-Feedback.jsp">Feedbacks</a></li>
+			        <li class="parts"><a href="Admin-email.jsp">Emails</a></li>
         		</ul>
 
 <div class="wrapper">

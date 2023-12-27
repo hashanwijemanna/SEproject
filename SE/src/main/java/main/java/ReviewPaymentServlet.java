@@ -1,4 +1,4 @@
-package net.codejava;
+package main.java;
 
 import java.io.IOException;
 import javax.servlet.*;
