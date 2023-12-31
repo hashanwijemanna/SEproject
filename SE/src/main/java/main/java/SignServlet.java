@@ -19,9 +19,9 @@ import javax.servlet.http.HttpServletResponse;
 public class SignServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
 
-    private static final String JDBC_URL = "jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12672409";
-    private static final String JDBC_USER = "sql12672409";
-    private static final String JDBC_PASSWORD = "hqZveYqKfy";
+    private static final String JDBC_URL = "jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12673880";
+    private static final String JDBC_USER = "sql12673880";
+    private static final String JDBC_PASSWORD = "Z5fcYdIa6J";
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {

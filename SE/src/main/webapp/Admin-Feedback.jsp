@@ -219,7 +219,7 @@
 
 <script>
     const table = document.querySelector('table tbody');
-    const searchField = document.getElementById('searchField');
+    const searchField = document.getElementById('search-input');
 
     searchField.addEventListener('keyup', function (event) {
         const searchTerm = event.target.value.toLowerCase();

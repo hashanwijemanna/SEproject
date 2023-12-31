@@ -2,9 +2,9 @@
 
 <%
     String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
-    String DB_URL = "jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12672409";
-    String USER = "sql12672409";
-    String PASS = "hqZveYqKfy";
+    String DB_URL = "jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12673880";
+    String USER = "sql12673880";
+    String PASS = "Z5fcYdIa6J";
 
     Connection conn = null;
 

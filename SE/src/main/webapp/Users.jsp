@@ -178,7 +178,7 @@
         <%
             try {
                 Class.forName("com.mysql.cj.jdbc.Driver");
-                Connection conn = DriverManager.getConnection("jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12672409", "sql12672409", "hqZveYqKfy");
+                Connection conn = DriverManager.getConnection("jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12673880", "sql12673880", "Z5fcYdIa6J");
 
                 String sql = "SELECT * FROM users";
                 PreparedStatement stmt = conn.prepareStatement(sql);
@@ -214,7 +214,7 @@
 
 <script>
     const table = document.querySelector('table tbody');
-    const searchField = document.getElementById('searchField');
+    const searchField = document.getElementById('search-input');
 
     searchField.addEventListener('keyup', function(event) {
         const searchTerm = event.target.value.toLowerCase();

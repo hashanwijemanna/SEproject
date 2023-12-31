@@ -5,8 +5,43 @@ pageEncoding="UTF-8"%><!DOCTYPE html>
     <meta charset="UTF-8">
     <title>Check Out</title>
     <style type="text/css">
-        table { border: 0; }
-        table td { padding: 10px; }
+        table { border: 0;}
+        table td { padding: 10px;
+        color: transparent;}
+        .feedback-form {
+            max-width: 400px;
+            max-height: 500px;
+            height: 500%;
+            width: 500%;
+            background-color: #fff;
+            padding: 105px;
+            box-shadow: 0 0 20px #6759ff;
+            border-radius: 15px;
+            position: relative;
+            transform: translate(680px,-350px);
+        }
+
+        .feedback-form h2 {
+            text-align: center;
+            color: #6759ff;
+            transform: translate(0px,-50px);
+            font-size: 60px;
+        }
+
+        .feedback-form h3 {
+            text-align: center;
+            color: #101010;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+            border-bottom: #6759ff;
+            background-color: transparent;
+            width: 100%;
+            border-bottom: 2px solid #6759ff;
+            padding: 1em 0.3em;
+        }
+
     </style>
 </head>
 <body>
@@ -37,10 +72,16 @@ pageEncoding="UTF-8"%><!DOCTYPE html>
             </tr>
             <tr>
                 <td colspan="2" align="center">
-                    <input type="submit" value="Checkout" />
+                    <input type="submit" value="Checkout" style="height: 50px; width: 100px; transform: translate(0px,150px)"/>
                 </td>
             </tr>
         </table>
+    </form>
+</div>
+<div class="feedback-form">
+    <h2>Check Out</h2>
+    <h3>Please click checkout button and go to PAYPAL</h3>
+
     </form>
 </div>
 </body>

@@ -87,7 +87,7 @@
             margin: 20px;
             background-color: #fff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            transform: translate(45%,20%);
+            transform: translate(45%,80%);
         }
 
         th, td {
@@ -217,7 +217,7 @@
 
 <script>
     const table = document.querySelector('table tbody');
-    const searchField = document.getElementById('searchField');
+    const searchField = document.getElementById('search-input');
 
     searchField.addEventListener('keyup', function (event) {
         const searchTerm = event.target.value.toLowerCase();

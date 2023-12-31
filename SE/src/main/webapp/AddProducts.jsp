@@ -53,7 +53,6 @@
             transform: translate(35%,250%);
         }
 
-
         #container input {
             background-color: transparent;
             width: 40%;
@@ -95,6 +94,14 @@
 
         .btn:hover {
             background-color: #45a049;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 6px;
+            font-size: 16px;
+            color: #333; /* Text color */
+            font-weight: bold; /* Optionally bold */
         }
 
     </style>

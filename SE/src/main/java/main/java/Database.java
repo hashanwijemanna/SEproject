@@ -8,9 +8,9 @@ public class Database {
 
     public static void main(String[] args) {
         // Database URL, username, and password
-        String url = "jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12672409";
-        String username = "sql12672409";
-        String password = "hqZveYqKfy";
+        String url = "jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12673880";
+        String username = "sql12673880";
+        String password = "Z5fcYdIa6J";
 
         // Load the JDBC driver
         try {
