@@ -14,6 +14,7 @@
     		<link rel="stylesheet" href="./CSS/Slider.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
         body {
             background-image: url('./Images/toa-heftiba-0lEn122_OGA-unsplash.jpg');
             background-size: cover;
@@ -26,13 +27,25 @@
             margin: 0;
             padding: 0;
             color: #0000;
+            height:100vh;
+            box-sizing: border-box;
         }
 
-        .container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
+
+           body {
+                  margin: 0;
+                  padding: 0;
+                  box-sizing: border-box;
+              }
+
+              .container {
+                  min-height: 80vh;
+                  display: flex;
+                  flex-direction: column;
+                  align-items: center;
+                  padding-bottom: 80px; /* Adjust this value based on your footer height */
+                  flex-direction: column;
+              }
 
 
         .feedback-form {
@@ -110,6 +123,36 @@
         .clear-btn:hover {
             background-color: #aeaaf8;
         }
+
+            footer {
+                background-color: #333;
+                color: white;
+                text-align: center;
+                padding: 30px 0;
+                position: fixed;
+                bottom: 0;
+                width: 100%;
+
+            }
+
+            footer div {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+
+            footer p {
+                margin: 10px 0;
+            }
+
+            footer a {
+                color: #4CAF50;
+                text-decoration: none;
+            }
+
+            footer a:hover {
+                text-decoration: underline;
+            }
     </style>
 </head>
 <body>
@@ -147,6 +190,26 @@
 
 </div>
 
-
 </body>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<footer>
+    <div>
+        <p>&copy; 2023 GREEN Supermarket</p>
+        <p>Contact: <a href="mailto:info@greensupermarket.com">info@greensupermarket.com</a></p>
+        <p>Address: 123 Green Street, Cityville</p>
+        <p>Follow Us:
+            <a href="#" target="_blank">Facebook</a> |
+            <a href="#" target="_blank">Twitter</a> |
+            <a href="#" target="_blank">Instagram</a>
+        </p>
+        <p>Subscribe to our newsletter for updates and promotions:</p>
+        <form action="#" method="post">
+            <input type="email" name="email" placeholder="Your Email" required>
+            <button type="submit">Subscribe</button>
+        </form>
+    </div>
+</footer>
+
 </html>

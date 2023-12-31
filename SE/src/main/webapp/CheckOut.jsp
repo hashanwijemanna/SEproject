@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-pageEncoding="UTF-8"%><!DOCTYPE html>
+pageEncoding="UTF-8"%>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -17,11 +18,11 @@ pageEncoding="UTF-8"%><!DOCTYPE html>
         <table>
             <tr>
                 <td>Product/Service:</td>
-                <td><input type="text" name="product" value="Next iPhone" /></td>
+                <td><input type="text" name="product" value=" Kadam water proof fully ruber office - school shoe" /></td>
             </tr>
             <tr>
                 <td>Sub Total:</td>
-                <td><input type="text" name="subtotal" value="100" /></td>
+                <td><input type="text" name="subtotal" value="20" /></td>
             </tr>
             <tr>
                 <td>Shipping:</td>
