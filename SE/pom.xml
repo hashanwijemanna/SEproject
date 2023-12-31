@@ -12,6 +12,7 @@
   <name>SE Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -19,11 +20,17 @@
       <scope>test</scope>
     </dependency>
 
-
   </dependencies>
+
+
+    <!-- Add other Spring dependencies as needed -->
+
+
   <build>
     <finalName>SE</finalName>
 
 
   </build>
+
 </project>
+

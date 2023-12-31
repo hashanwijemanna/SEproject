@@ -54,6 +54,7 @@
 		header {
 			text-align: center;
 			margin-bottom: 20px;
+			width:100%;
 		}
 
 		#description {
@@ -122,6 +123,34 @@
 		.active {
 			background-color: #717171;
 		}
+		 @media only screen and (max-width: 600px) {
+              h1 {
+                font-size: 24px;
+              }
+
+              p {
+                font-size: 14px;
+              }
+
+              .logo {
+                width: 30px;
+                height: 30px;
+              }
+
+              #navigation {
+                flex-direction: column;
+                gap: 10px;
+              }
+
+              #navigation li {
+                display: block;
+              }
+
+              .slider {
+                max-width: 100%;
+                margin: 10px auto;
+              }
+            }
 	</style>
 </head>
 
@@ -134,6 +163,7 @@
 		<li class="parts"><a href="Users.jsp">Users</a></li>
 		<li class="parts"><a href="Admin-Products.jsp">Products</a></li>
 		<li class="parts"><a href="Admin-Feedback.jsp">Feedbacks</a></li>
+	    <li class="parts"><a href="Admin-email.jsp">Emails</a></li>
 	</ul>
 </header>
 <h1>Green Cart</h1>

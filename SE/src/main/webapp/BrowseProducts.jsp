@@ -220,4 +220,11 @@
         });
     </script>
 </body>
+<footer>
+    <div>
+        <p>&copy; 2023 GREEN Supermarket</p>
+        <p>Contact: <a href="mailto:info@greensupermarket.com">info@greensupermarket.com</a></p>
+        <p>Address: 123 Green Street, Cityville</p>
+    </div>
+</footer>
 </html>
