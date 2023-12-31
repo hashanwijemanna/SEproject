@@ -1,0 +1,106 @@
+/* setting the position of the text and background colour menu */ 
+.textbox{
+	position: absolute;
+	font-family: Helvetica, sans-serif;
+	background: none;
+	margin: 0;
+	top: 85px;
+	display: flex;	
+}
+.backgroundbox{
+	position: absolute;
+	font-family: Helvetica, sans-serif;
+	background: none;
+	margin: 0;
+	top: 85px;
+	right: 00px;
+	display: flex;	
+}
+/* setting the position and size of text on top of the menu */ 
+#textcol{
+	position: absolute;
+	top: 65px;
+	left: 61px;
+	font-family: 'Trebuchet MS', sans-serif;
+	font-weight: bold;
+	font-size: 19px;
+}
+#backgroundcol{
+	position: absolute;
+	top: 65px;
+	right: 30px;
+	font-family: 'Trebuchet MS', sans-serif;
+	font-weight: bold;
+	font-size: 19px;
+}
+.dropdown{
+	min-width: 10em;
+	position: relative;
+	margin: 2em;
+}
+.dropdown*{
+	box-sizing: border-box;
+}
+.displaying{
+	background: #3ded97;
+	color: #fff;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border: 2px #fff solid;
+	border-radius: 0.5em;
+	padding: 1em;
+	cursor: pointer;
+	transition: 0.3s;
+}
+.select-clicked{
+	border: 2px #26489a solid;
+	box-shadow: 0 0 0.83em #26489a;
+}
+.displaying:hover{
+	background: #99edc3;
+}
+.caret{		
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 6px solid #fff;
+	transition: 0.3s;
+}
+.caret-rotate{
+	transform: rotate(180deg);
+}
+/* setting the styles and sizes of the box which holds list items*/ 
+.menu{
+	list-style: none;
+	padding: 0.2em 0.5em;
+	background: #b2d3c2;
+	border: 1px #fff solid;
+	border-radius: 0.5em;
+	color: #fff;
+	position: absolute;
+	top: 3.1em;
+	left: 50%;
+	width: 90%;
+	transform: translate(-50%);
+	opacity: 0;
+	display: none;
+	transition: 0.2s;
+	z-index: 1;
+}
+.menu li{
+	padding: 0.7em 0.5em;
+	margin: 0.3em 0;
+	border-radius: 0.5em;
+	cursor: pointer;
+	}
+.menu li:hover{
+	background: #99edc3;
+}
+.active{
+	background: #99edc3;
+}
+/* the menu option which is used to toggle*/ 
+.menu-open{
+	display: block;
+	opacity: 1;
+}

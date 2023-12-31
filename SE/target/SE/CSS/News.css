@@ -1,0 +1,71 @@
+::-webkit-scrollbar {
+	display: none;
+}
+body{
+	background-color: #e8fced;
+}
+h1{
+	position: absolute;
+	left: 47%;
+	top: 8%;
+	font-family: 'Trebuchet MS', sans-serif;
+	font-weight: bold;
+	font-size: 38px;
+}
+.boxes{
+	display: flex;
+	flex-direction: column;
+}
+.news-box {
+	background-color: rgba(0, 0, 0, 0.2);
+    padding: 0.8%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+	margin: 10px auto;
+	max-width: 100%;
+	margin-top: 11%;
+	margin-left: 1.5%;
+	height:190px;
+}
+.news-box-2{
+	background-color: rgba(0, 0, 0, 0.2);
+    padding: 0.8%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+	margin: 10px auto;
+	max-width: 100%;
+	margin-top: 2%;
+	margin-left: 1.5%;
+	height:190px;
+}
+.image{
+	width: 300px;
+	height: 190px;
+	margin-left: 1%;
+	border-radius: 10px;
+	float: left;
+	margin-right: 30px;
+}
+.newstitle{
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 0;
+}
+.newsdescription{
+	font-size: 20px;
+	line-height: 22px;
+	margin-right:20px;
+}
+.newsdate{
+	float: right;
+	font-size: 17px;
+	margin-right: 30px;
+	margin-top:0;
+}
+#top_icon{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	z-index: 1;
+	margin-left: 95%;
+}

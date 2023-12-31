@@ -1,0 +1,25 @@
+body{
+   margin: 0;
+   font-family: 'Trebuchet MS', sans-serif;
+   font-weight: bold;
+} 
+/* positioning and tinting the background image */  
+#image{
+   position: absolute;
+   z-index: -1;
+   height: 100vh;
+   background-size: cover;
+   width: 100%;
+   color: rgba(255, 255, 255, 0.2);
+}
+g:hover rect{
+   fill: rgba(0, 0, 0, 0.4);            
+}
+.editor{
+   top: 88%;
+   left: 94.5%;
+   position: absolute;
+}
+svg {
+	margin-left: 8%;
+}
