@@ -116,7 +116,7 @@
     <li class="parts"><a href="Home.jsp">Home</a></li>
     <li class="parts"><a href="BrowseProducts.jsp">Browse Products</a></li>
     <li class="parts"><a href="feedbacks.jsp">Feedback</a></li>
-    <li class="parts"><a href="#">About Us</a></li>
+    <li class="parts"><a href="Aboutus.jsp">About Us</a></li>
 </ul>
 <div class="container">
     <div class="item-details">
@@ -150,7 +150,7 @@
 
         <div class="button-pay">
             <a href="CheckOut.jsp"><button class="pay-btn">Pay Now</button></a>
-            <button class="cash-btn">Cash on Delivery</button>
+            <a href="CashonDelivery.jsp"><button class="cash-btn">Cash on Delivery</button></a>>
         </div>
         <% rs.close();
             stmt.close();

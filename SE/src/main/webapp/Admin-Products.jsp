@@ -87,7 +87,7 @@
             margin: 20px;
             background-color: #fff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            transform: translate(45%,80%);
+            transform: translate(45%,50%);
         }
 
         th, td {

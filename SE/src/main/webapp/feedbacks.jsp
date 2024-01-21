@@ -124,35 +124,7 @@
             background-color: #aeaaf8;
         }
 
-            footer {
-                background-color: #333;
-                color: white;
-                text-align: center;
-                padding: 30px 0;
-                position: fixed;
-                bottom: 0;
-                width: 100%;
 
-            }
-
-            footer div {
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-            }
-
-            footer p {
-                margin: 10px 0;
-            }
-
-            footer a {
-                color: #4CAF50;
-                text-decoration: none;
-            }
-
-            footer a:hover {
-                text-decoration: underline;
-            }
     </style>
 </head>
 <body>
@@ -164,7 +136,7 @@
 			<li class="parts"><a href="Home.jsp">Home</a></li>
 			<li class="parts"><a href="BrowseProducts.jsp">Browse Products</a></li>
 			<li class="parts"><a href="feedbacks.jsp">Feedback</a></li>
-			<li class="parts"><a href="#">About Us</a></li>
+			<li class="parts"><a href="Aboutus.jsp">About Us</a></li>
 		</ul>
 <br><br><br><br><br><br>
 
@@ -193,23 +165,4 @@
 </body>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<footer>
-    <div>
-        <p>&copy; 2023 GREEN Supermarket</p>
-        <p>Contact: <a href="mailto:info@greensupermarket.com">info@greensupermarket.com</a></p>
-        <p>Address: 123 Green Street, Cityville</p>
-        <p>Follow Us:
-            <a href="#" target="_blank">Facebook</a> |
-            <a href="#" target="_blank">Twitter</a> |
-            <a href="#" target="_blank">Instagram</a>
-        </p>
-        <p>Subscribe to our newsletter for updates and promotions:</p>
-        <form action="#" method="post">
-            <input type="email" name="email" placeholder="Your Email" required>
-            <button type="submit">Subscribe</button>
-        </form>
-    </div>
-</footer>
-
 </html>

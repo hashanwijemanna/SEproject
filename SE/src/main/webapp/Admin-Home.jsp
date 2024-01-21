@@ -78,6 +78,7 @@
 
 		#navigation li {
 			display: inline;
+			transform: translate(900px,5px)
 		}
 
 		#navigation a {

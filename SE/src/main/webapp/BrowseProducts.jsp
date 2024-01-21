@@ -142,6 +142,7 @@
             color: #64DD17;
         }
 
+
     </style>
 </head>
 <body>
@@ -153,7 +154,7 @@
         <li><a href="Home.jsp">Home</a></li>
         <li><a href="BrowseProducts.jsp">Browse Products</a></li>
         <li><a href="feedbacks.jsp">Feedback</a></li>
-        <li><a href="#">About Us</a></li>
+        <li><a href="Aboutus.jsp">About Us</a></li>
     </ul>
 
     <header>
@@ -220,11 +221,5 @@
         });
     </script>
 </body>
-<footer>
-    <div>
-        <p>&copy; 2023 GREEN Supermarket</p>
-        <p>Contact: <a href="mailto:info@greensupermarket.com">info@greensupermarket.com</a></p>
-        <p>Address: 123 Green Street, Cityville</p>
-    </div>
-</footer>
+
 </html>

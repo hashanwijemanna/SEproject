@@ -165,7 +165,7 @@
     </div>
     <div class="button-pay">
         <a href="CheckOut.jsp" class="pay-btn">Pay Now</a>
-        <a href="#" class="cash-btn">Cash on Delivery</a>
+        <a href="CashonDelivery.jsp" class="cash-btn">Cash on Delivery</a>
     </div>
     <% } else { %>
     <p class="empty-cart">Your cart is empty.</p>
